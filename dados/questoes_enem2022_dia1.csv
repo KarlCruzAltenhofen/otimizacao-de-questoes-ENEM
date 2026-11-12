@@ -1,0 +1,96 @@
+﻿prova,ano,dia,caderno,id,tipo,numero,lingua,area,secao,w,linhas,linhas_texto,linhas_texto_em_figura,linhas_figura,linhas_espaco,n_imagens,n_desenhos,altura_conteudo_pt,altura_total_pt,pagina_inicial,pagina_final,coluna_inicial,n_colunas,coluna_unica,quebra_pagina,primeira_linha
+enem2022_dia1,2022,1,1,01_ING,questao,1,ING,Linguagens,ING,26,25.59,23,1,0.97,0.62,0,1,292.6,299.4,2,2,0,1,0,0,"As my official bio reads, I was made in Cuba, assembled"
+enem2022_dia1,2022,1,1,02_ING,questao,2,ING,Linguagens,ING,28,28.29,27,1,0.97,0.0,0,1,324.2,331.0,2,2,0,1,0,0,"Two hundred years ago, Jane Austen lived in a world"
+enem2022_dia1,2022,1,1,03_ING,questao,3,ING,Linguagens,ING,48,47.95,8,26,35.37,0.0,1,2,554.3,561.0,2,2,1,1,0,0,BEYOND THE CASTLE IS
+enem2022_dia1,2022,1,1,04_ING,questao,4,ING,Linguagens,ING,26,26.25,24,0,0.0,2.25,0,0,300.3,307.1,3,3,0,1,0,0,A Teen’s View of Social Media
+enem2022_dia1,2022,1,1,05_ING,questao,5,ING,Linguagens,ING,32,32.18,23,0,0.0,9.18,0,0,369.8,376.5,3,3,0,2,0,0,I tend the mobile now
+enem2022_dia1,2022,1,1,01_ESP,questao,1,ESP,Linguagens,ESP,51,50.71,12,17,33.92,0.0,4,3,586.5,593.3,3,3,1,1,0,0,Contigo
+enem2022_dia1,2022,1,1,02_ESP,questao,2,ESP,Linguagens,ESP,33,32.56,29,0,0.0,3.56,0,0,374.2,381.0,4,4,0,1,0,0,Pequeño hermano
+enem2022_dia1,2022,1,1,03_ESP,questao,3,ESP,Linguagens,ESP,21,20.81,18,0,0.0,2.81,0,0,236.8,243.5,4,4,0,1,0,0,"En los suburbios de La Habana, llaman al amigo mi"
+enem2022_dia1,2022,1,1,04_ESP,questao,4,ESP,Linguagens,ESP,48,48.18,36,0,0.0,12.18,0,0,556.9,563.7,4,4,1,1,0,0,Los niños de nuestro olvido
+enem2022_dia1,2022,1,1,05_ESP,questao,5,ESP,Linguagens,ESP,59,58.86,17,27,35.8,0.0,3,63,681.9,688.7,5,5,0,2,0,0,MATERNIDADES EN TIEMPOS DE PANDEMIA
+enem2022_dia1,2022,1,1,06,questao,6,,Linguagens,LC,35,34.64,31,0,0.0,3.64,0,0,398.5,405.3,5,5,1,1,0,0,Urgência emocional
+enem2022_dia1,2022,1,1,07,questao,7,,Linguagens,LC,43,42.85,29,9,14.19,0.0,1,15,494.6,501.3,6,6,0,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,08,questao,8,,Linguagens,LC,41,40.88,39,0,0.0,1.88,0,0,471.5,478.3,6,6,0,2,0,0,É ruivo? Tem olhos azuis? É homem ou mulher?
+enem2022_dia1,2022,1,1,09,questao,9,,Linguagens,LC,30,30.17,15,6,12.12,0.0,1,96,346.2,352.9,6,6,1,1,0,0,Causar um acidente
+enem2022_dia1,2022,1,1,10,questao,10,,Linguagens,LC,35,35.44,30,0,0.0,5.44,0,0,408.0,414.7,7,7,0,1,0,0,"Ciente de que, no campo da criação, as inovações"
+enem2022_dia1,2022,1,1,11,questao,11,,Linguagens,LC,32,32.23,29,0,0.0,3.23,0,0,370.4,377.1,7,7,0,2,0,0,"Ora, sempre que surge uma nova técnica, ela quer"
+enem2022_dia1,2022,1,1,12,questao,12,,Linguagens,LC,44,43.67,36,0,0.0,7.67,0,0,504.2,511.0,7,7,1,1,0,0,Papos
+enem2022_dia1,2022,1,1,13,questao,13,,Linguagens,LC,39,39.45,36,0,0.0,3.45,0,0,454.9,461.6,8,8,0,1,0,0,"São vários os fatores, internos e externos, que"
+enem2022_dia1,2022,1,1,14,questao,14,,Linguagens,LC,34,34.48,29,0,0.0,5.48,0,0,396.7,403.4,8,8,0,2,0,0,TEXTO I
+enem2022_dia1,2022,1,1,15,questao,15,,Linguagens,LC,38,37.61,12,4,21.07,0.55,1,0,433.3,440.1,8,8,1,1,0,0,QUANTO CUSTOU?
+enem2022_dia1,2022,1,1,16,questao,16,,Linguagens,LC,43,43.46,41,0,0.0,2.46,0,0,501.7,508.4,9,9,0,1,0,0,"Ela era linda. Gostava de dançar, fazia teatro em São"
+enem2022_dia1,2022,1,1,17,questao,17,,Linguagens,LC,33,33.45,31,0,0.0,2.45,0,0,384.7,391.4,9,9,0,2,0,0,PALAVRA – As gramáticas classificam as palavras
+enem2022_dia1,2022,1,1,18,questao,18,,Linguagens,LC,34,33.55,31,0,0.0,2.55,0,0,385.8,392.5,9,9,1,1,0,0,Morte lenta ao luso infame que inventou a calçada
+enem2022_dia1,2022,1,1,19,questao,19,,Linguagens,LC,39,39.01,36,0,0.0,3.01,0,0,449.6,456.4,10,10,0,1,0,0,"Pisoteamento, arrastão, empurra-empurra, agressões,"
+enem2022_dia1,2022,1,1,20,questao,20,,Linguagens,LC,49,49.01,46,0,0.0,3.01,0,0,566.6,573.4,10,10,1,1,0,0,Seis em cada dez pessoas com 15 anos ou mais
+enem2022_dia1,2022,1,1,21,questao,21,,Linguagens,LC,34,34.26,37,0,0.0,0.0,0,0,394.1,400.9,11,11,0,1,0,0,A escrava
+enem2022_dia1,2022,1,1,22,questao,22,,Linguagens,LC,58,58.12,60,0,0.0,0.0,0,0,673.3,680.1,11,11,0,2,0,0,TEXTO I
+enem2022_dia1,2022,1,1,23,questao,23,,Linguagens,LC,23,22.77,22,0,0.0,0.77,0,0,259.6,266.4,11,11,1,1,0,0,"Mas seu olhar verde, inconfundível, impressionante,"
+enem2022_dia1,2022,1,1,24,questao,24,,Linguagens,LC,49,48.76,44,0,0.0,4.76,0,0,563.7,570.5,12,12,0,1,0,0,O complexo de falar difícil
+enem2022_dia1,2022,1,1,25,questao,25,,Linguagens,LC,34,33.81,31,0,0.0,2.81,0,0,388.9,395.6,12,12,1,1,0,0,"A conquista da medalha de prata por Rayssa Leal,"
+enem2022_dia1,2022,1,1,26,questao,26,,Linguagens,LC,42,42.23,32,0,0.0,10.23,0,0,487.4,494.1,13,13,0,1,0,0,Assentamento
+enem2022_dia1,2022,1,1,27,questao,27,,Linguagens,LC,27,26.81,13,3,10.23,0.58,1,72,306.9,313.6,13,13,0,2,0,0,Os homens
+enem2022_dia1,2022,1,1,28,questao,28,,Linguagens,LC,44,44.14,40,0,0.0,4.14,0,0,509.6,516.4,13,13,1,1,0,0,As línguas silenciadas do Brasil
+enem2022_dia1,2022,1,1,29,questao,29,,Linguagens,LC,38,37.62,33,0,0.0,4.62,0,0,433.4,440.1,14,14,0,1,0,0,Esaú e Jacó
+enem2022_dia1,2022,1,1,30,questao,30,,Linguagens,LC,34,34.48,31,0,0.0,3.48,0,0,396.6,403.4,14,14,0,2,0,0,"A senhora manifestava-se por atos, por gestos,"
+enem2022_dia1,2022,1,1,31,questao,31,,Linguagens,LC,37,36.87,32,0,0.0,4.87,0,0,424.7,431.4,14,14,1,1,0,0,Era o êxodo da seca de 1898. Uma ressurreição de
+enem2022_dia1,2022,1,1,32,questao,32,,Linguagens,LC,65,64.98,32,4,10.45,18.53,0,25,746.8,760.3,15,15,0,2,1,0,MANUAL DE ORIENTAÇÃO
+enem2022_dia1,2022,1,1,33,questao,33,,Linguagens,LC,43,42.75,36,0,0.0,6.75,0,0,486.7,500.2,15,15,0,2,1,0,Notas
+enem2022_dia1,2022,1,1,34,questao,34,,Linguagens,LC,31,31.5,30,0,0.0,1.5,0,0,361.8,368.5,16,16,0,1,0,0,"Criado há cerca de 20 anos na Califórnia, o"
+enem2022_dia1,2022,1,1,35,questao,35,,Linguagens,LC,35,34.78,34,0,0.0,0.78,0,0,400.2,407.0,16,16,0,2,0,0,Ser cronista
+enem2022_dia1,2022,1,1,36,questao,36,,Linguagens,LC,33,33.17,30,0,0.0,3.17,0,0,381.4,388.1,16,16,1,1,0,0,Projeto na Câmara de BH quer a vacinação gratuita
+enem2022_dia1,2022,1,1,37,questao,37,,Linguagens,LC,36,35.85,35,0,0.0,0.85,0,0,412.7,419.5,17,17,0,1,0,0,“Vida perfeita” em redes sociais pode afetar a
+enem2022_dia1,2022,1,1,38,questao,38,,Linguagens,LC,39,39.38,22,0,15.86,1.53,1,0,454.1,460.8,17,17,0,2,0,0,TEXTO I
+enem2022_dia1,2022,1,1,39,questao,39,,Linguagens,LC,40,39.79,22,1,15.44,1.35,1,0,458.7,465.5,17,17,1,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,40,questao,40,,Linguagens,LC,34,34.41,28,0,0.0,6.41,0,0,395.9,402.6,18,18,0,1,0,0,"Firmo, o vaqueiro"
+enem2022_dia1,2022,1,1,41,questao,41,,Linguagens,LC,31,31.25,27,0,0.0,4.25,0,0,358.9,365.7,18,18,0,2,0,0,O bebê de tarlatana rosa
+enem2022_dia1,2022,1,1,42,questao,42,,Linguagens,LC,29,29.14,25,0,0.0,4.14,0,0,334.3,341.0,18,18,1,1,0,0,10 de maio
+enem2022_dia1,2022,1,1,43,questao,43,,Linguagens,LC,30,30.49,27,0,0.0,3.49,0,0,350.0,356.8,19,19,0,1,0,0,Vanda vinha do interior de Minas Gerais e de dentro
+enem2022_dia1,2022,1,1,44,questao,44,,Linguagens,LC,50,49.9,27,0,21.91,1.0,1,0,577.2,583.9,19,19,0,2,0,0,TEXTO I
+enem2022_dia1,2022,1,1,45,questao,45,,Linguagens,LC,35,34.5,35,0,0.0,0.0,0,0,396.9,403.7,19,19,1,1,0,0,"O Recife fervilhava no começo da década de 1990, e"
+enem2022_dia1,2022,1,1,46,questao,46,,Ciências Humanas,CH,20,19.76,9,12,10.07,0.0,0,890,224.5,231.2,21,21,0,1,0,0,"Espera, resignado, o dia 13 daquele mês porque,"
+enem2022_dia1,2022,1,1,47,questao,47,,Ciências Humanas,CH,20,19.75,17,4,2.8,0.0,0,72,224.4,231.1,21,21,0,1,0,0,Sempre que a relevância do discurso entra em
+enem2022_dia1,2022,1,1,48,questao,48,,Ciências Humanas,CH,17,16.77,16,0,0.0,0.77,0,0,189.5,196.2,21,21,0,1,0,0,Eu estava pagando o sapateiro e conversando com
+enem2022_dia1,2022,1,1,49,questao,49,,Ciências Humanas,CH,57,57.12,9,28,45.24,0.0,16,4248,665.4,672.2,21,21,1,1,0,0,evapotranspiração: 40%
+enem2022_dia1,2022,1,1,50,questao,50,,Ciências Humanas,CH,29,28.62,26,0,0.0,2.62,0,0,328.1,334.9,22,22,0,1,0,0,"Na construção da ferrovia Madeira-Mamoré, o"
+enem2022_dia1,2022,1,1,51,questao,51,,Ciências Humanas,CH,25,24.62,22,0,0.0,2.62,0,0,281.3,288.1,22,22,0,1,0,0,Uma nova economia surgiu em escala global no
+enem2022_dia1,2022,1,1,52,questao,52,,Ciências Humanas,CH,29,28.87,26,0,0.0,2.87,0,0,331.0,337.7,22,22,1,1,0,0,Olhar o Brasil e não ver o sertão
+enem2022_dia1,2022,1,1,53,questao,53,,Ciências Humanas,CH,29,28.76,28,0,0.0,0.76,0,0,329.8,336.5,22,22,1,1,0,0,O número cada vez maior de mulheres letradas
+enem2022_dia1,2022,1,1,54,questao,54,,Ciências Humanas,CH,20,19.62,17,0,0.0,2.62,0,0,222.8,229.6,23,23,0,1,0,0,Os caixeiros do comércio a retalho do Rio de Janeiro
+enem2022_dia1,2022,1,1,55,questao,55,,Ciências Humanas,CH,34,33.62,31,0,0.0,2.62,0,0,386.6,393.4,23,23,0,1,0,0,Solos salinos ou alomórficos apresentam como
+enem2022_dia1,2022,1,1,56,questao,56,,Ciências Humanas,CH,46,46.12,25,7,17.77,0.0,1,0,532.9,539.6,23,23,1,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,57,questao,57,,Ciências Humanas,CH,21,20.94,20,0,0.0,0.94,0,0,238.3,245.0,24,24,0,1,0,0,"O leproso é visto dentro de uma prática da rejeição,"
+enem2022_dia1,2022,1,1,58,questao,58,,Ciências Humanas,CH,37,36.65,36,0,0.0,0.65,0,0,422.1,428.8,24,24,0,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,59,questao,59,,Ciências Humanas,CH,27,26.63,25,0,0.0,1.63,0,0,304.8,311.6,24,24,1,1,0,0,"Em 2003, teve início o Programa de Aquisição de"
+enem2022_dia1,2022,1,1,60,questao,60,,Ciências Humanas,CH,29,28.76,26,0,0.0,2.76,0,0,329.7,336.5,24,24,1,1,0,0,Um experimento denominado FunFit foi desenvolvido
+enem2022_dia1,2022,1,1,61,questao,61,,Ciências Humanas,CH,19,19.1,17,0,0.0,2.1,0,0,216.8,223.5,25,25,0,1,0,0,A dublagem é o novo campo a ser explorado pela
+enem2022_dia1,2022,1,1,62,questao,62,,Ciências Humanas,CH,25,25.41,23,0,0.98,1.43,0,1,290.6,297.3,25,25,0,1,0,0,Brasil e Argentina chegaram a um acordo para a
+enem2022_dia1,2022,1,1,63,questao,63,,Ciências Humanas,CH,26,25.58,25,2,1.96,0.0,0,2,292.6,299.3,25,25,0,2,0,0,Ainda que a fome ocorrida na Itália em 536 tenha
+enem2022_dia1,2022,1,1,64,questao,64,,Ciências Humanas,CH,16,15.7,16,0,0.0,0.0,0,0,176.9,183.7,25,25,1,1,0,0,"As forças tectônicas dentro da litosfera, controladas"
+enem2022_dia1,2022,1,1,65,questao,65,,Ciências Humanas,CH,30,30.32,9,21,21.39,0.0,0,20,348.0,354.8,25,25,1,1,0,0,MORTE
+enem2022_dia1,2022,1,1,66,questao,66,,Ciências Humanas,CH,36,36.07,33,0,0.0,3.07,0,0,415.3,422.1,26,26,0,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,67,questao,67,,Ciências Humanas,CH,21,21.26,18,0,0.0,3.26,0,0,242.0,248.8,26,26,0,1,0,0,Após sete anos da ocupação de um terreno
+enem2022_dia1,2022,1,1,68,questao,68,,Ciências Humanas,CH,36,35.8,19,4,15.66,0.0,3,5,412.1,418.9,26,26,1,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,69,questao,69,,Ciências Humanas,CH,22,22.03,21,0,0.0,1.03,0,0,251.0,257.8,26,26,1,1,0,0,"Colegas, na mente e no coração do povo, a Crimeia"
+enem2022_dia1,2022,1,1,70,questao,70,,Ciências Humanas,CH,34,33.75,14,9,15.75,0.0,0,19,388.1,394.8,27,27,0,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,71,questao,71,,Ciências Humanas,CH,21,21.01,18,0,0.0,3.01,0,0,239.0,245.8,27,27,0,1,0,0,O princípio básico do Estado de direito é o da
+enem2022_dia1,2022,1,1,72,questao,72,,Ciências Humanas,CH,26,25.76,22,0,0.0,3.76,0,0,294.6,301.4,27,27,1,1,0,0,Brasileiros levam mais tempo de casa para o trabalho
+enem2022_dia1,2022,1,1,73,questao,73,,Ciências Humanas,CH,22,21.62,19,0,0.0,2.62,0,0,246.2,253.0,27,27,1,1,0,0,A história do Primeiro de Maio de 1890 — na França e na
+enem2022_dia1,2022,1,1,74,questao,74,,Ciências Humanas,CH,34,34.05,10,5,23.56,0.0,8,40,391.6,398.4,28,28,0,1,0,0,RADIAÇÃO SOLAR
+enem2022_dia1,2022,1,1,75,questao,75,,Ciências Humanas,CH,24,23.63,23,0,0.0,0.63,0,0,269.8,276.5,28,28,0,1,0,0,O povo Kambeba é o povo das águas. Os mais velhos
+enem2022_dia1,2022,1,1,76,questao,76,,Ciências Humanas,CH,27,26.62,24,0,0.0,2.62,0,0,304.7,311.5,28,28,1,1,0,0,"Lá embaixo está o Açude Itans, com seu formigueiro"
+enem2022_dia1,2022,1,1,77,questao,77,,Ciências Humanas,CH,26,26.24,24,0,0.0,2.24,0,0,300.2,307.0,28,28,1,1,0,0,"Para os Impérios Coloniais, o problema das"
+enem2022_dia1,2022,1,1,78,questao,78,,Ciências Humanas,CH,28,27.78,13,11,13.02,0.0,1,13,318.3,325.0,29,29,0,1,0,0,Possível trajeto do voo MH370 da Malaysia Airlines
+enem2022_dia1,2022,1,1,79,questao,79,,Ciências Humanas,CH,29,28.89,28,0,0.0,0.89,0,0,331.3,338.1,29,29,0,1,0,0,"Hoje sou um ser inanimado, mas já tive vida pulsante"
+enem2022_dia1,2022,1,1,80,questao,80,,Ciências Humanas,CH,28,28.01,25,0,0.0,3.01,0,0,320.9,327.7,29,29,1,1,0,0,"Advento da Polis, nascimento da filosofia: entre as"
+enem2022_dia1,2022,1,1,81,questao,81,,Ciências Humanas,CH,29,28.51,24,0,0.0,4.51,0,0,326.8,333.5,29,29,1,1,0,0,"Decreto-Lei n. 1 949, de 27/12/1937"
+enem2022_dia1,2022,1,1,82,questao,82,,Ciências Humanas,CH,33,32.58,14,22,14.91,0.0,1,103,374.4,381.1,30,30,0,1,0,0,ROCHAS ÍGNEAS DA AMAZÔNIA LEGAL
+enem2022_dia1,2022,1,1,83,questao,83,,Ciências Humanas,CH,19,18.65,16,0,0.0,2.65,0,0,211.4,218.2,30,30,0,1,0,0,"Nascidas no Líbano, as duas irmãs não puderam"
+enem2022_dia1,2022,1,1,84,questao,84,,Ciências Humanas,CH,25,25.03,21,0,0.0,4.03,0,0,286.1,292.8,30,30,1,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,85,questao,85,,Ciências Humanas,CH,33,32.5,29,0,0.0,3.5,0,0,373.5,380.3,30,30,1,1,0,0,TEXTO I
+enem2022_dia1,2022,1,1,86,questao,86,,Ciências Humanas,CH,19,19.04,17,0,0.0,2.04,0,0,216.0,222.7,31,31,0,1,0,0,Empédocles estabelece quatro elementos corporais
+enem2022_dia1,2022,1,1,87,questao,87,,Ciências Humanas,CH,21,21.38,19,0,0.0,2.38,0,0,243.4,250.2,31,31,0,1,0,0,Macrocefalia urbana pode ser entendida como a
+enem2022_dia1,2022,1,1,88,questao,88,,Ciências Humanas,CH,17,17.25,14,0,0.0,3.25,0,0,195.1,201.8,31,31,0,1,0,0,"Entretanto, nosso amigo Basso tem o ânimo alegre."
+enem2022_dia1,2022,1,1,89,questao,89,,Ciências Humanas,CH,29,28.79,25,0,0.0,3.79,0,0,330.1,336.8,31,31,1,1,0,0,"Quando os espanhóis chegaram à América, estava"
+enem2022_dia1,2022,1,1,90,questao,90,,Ciências Humanas,CH,29,28.89,25,0,0.0,3.89,0,0,331.2,338.0,31,31,1,1,0,0,"Em Vitória (ES), no bairro Goiabeiras, encontramos"

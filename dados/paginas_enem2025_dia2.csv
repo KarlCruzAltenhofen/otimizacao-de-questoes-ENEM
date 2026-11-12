@@ -1,0 +1,33 @@
+﻿prova,pagina,tipo,layout,banner,banner_linhas,capacidade_linhas,linhas_usadas,linhas_usadas_float,folga,n_itens,itens,secoes
+enem2025_dia2,1,capa,,,0,0,0,0,0,0,,
+enem2025_dia2,2,questoes,duas_colunas,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS | Questões de 91 a 135,3,108,107,106.96,1,4,91 92 93 94,CN
+enem2025_dia2,3,questoes,duas_colunas,,0,111,112,111.69,-1,6,95 96 97 98 99 100,CN
+enem2025_dia2,4,questoes,duas_colunas,,0,111,109,109.34,2,1,101,CN
+enem2025_dia2,5,questoes,duas_colunas,,0,111,110,110.78,1,2,102 103,CN
+enem2025_dia2,6,questoes,duas_colunas,,0,111,105,104.6,6,3,104 105 106,CN
+enem2025_dia2,7,questoes,coluna_unica,,0,111,112,111.53,-1,2,107 108,CN
+enem2025_dia2,8,questoes,duas_colunas,,0,111,106,105.17,5,4,109 110 111 112,CN
+enem2025_dia2,9,questoes,duas_colunas,,0,111,106,105.53,5,3,113 114 115,CN
+enem2025_dia2,10,questoes,duas_colunas,,0,111,89,89.15,22,2,116 117,CN
+enem2025_dia2,11,questoes,duas_colunas,,0,111,112,111.83,-1,4,118 119 120 121,CN
+enem2025_dia2,12,questoes,duas_colunas,,0,111,111,111.31,0,4,122 123 124 125,CN
+enem2025_dia2,13,questoes,duas_colunas,,0,111,96,95.6,15,3,126 127 128,CN
+enem2025_dia2,14,questoes,duas_colunas,,0,111,111,111.3,0,3,129 130 131,CN
+enem2025_dia2,15,questoes,duas_colunas,,0,111,112,111.8,-1,4,132 133 134 135,CN
+enem2025_dia2,16,questoes,duas_colunas,MATEMÁTICA E SUAS TECNOLOGIAS | Questões de 136 a 180,3,108,108,107.93,0,4,136 137 138 139,MT
+enem2025_dia2,17,questoes,duas_colunas,,0,111,111,111.89,0,4,140 141 142 143,MT
+enem2025_dia2,18,questoes,coluna_unica,,0,111,110,109.81,1,1,144,MT
+enem2025_dia2,19,questoes,coluna_unica,,0,111,111,111.51,0,2,145 146,MT
+enem2025_dia2,20,questoes,duas_colunas,,0,111,94,93.78,17,2,147 148,MT
+enem2025_dia2,21,questoes,coluna_unica,,0,111,108,107.33,3,2,149 150,MT
+enem2025_dia2,22,questoes,duas_colunas,,0,111,110,110.26,1,4,151 152 153 154,MT
+enem2025_dia2,23,questoes,duas_colunas,,0,111,107,107.35,4,2,155 156,MT
+enem2025_dia2,24,questoes,coluna_unica,,0,111,108,107.33,3,2,157 158,MT
+enem2025_dia2,25,questoes,duas_colunas,,0,111,108,107.58,3,3,159 160 161,MT
+enem2025_dia2,26,questoes,duas_colunas,,0,111,110,109.59,1,5,162 163 164 165 166,MT
+enem2025_dia2,27,questoes,coluna_unica,,0,111,110,110.0,1,1,167,MT
+enem2025_dia2,28,questoes,duas_colunas,,0,111,112,111.83,-1,4,168 169 170 171,MT
+enem2025_dia2,29,questoes,coluna_unica,,0,111,112,111.85,-1,2,172 173,MT
+enem2025_dia2,30,questoes,duas_colunas,,0,111,107,107.19,4,3,174 175 176,MT
+enem2025_dia2,31,questoes,duas_colunas,,0,111,111,111.31,0,4,177 178 179 180,MT
+enem2025_dia2,32,outra,,,0,0,0,0,0,0,,

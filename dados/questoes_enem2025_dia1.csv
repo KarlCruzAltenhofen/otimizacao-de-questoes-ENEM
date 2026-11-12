@@ -1,0 +1,97 @@
+﻿prova,ano,dia,caderno,id,tipo,numero,lingua,area,secao,w,linhas,linhas_texto,linhas_texto_em_figura,linhas_figura,linhas_espaco,n_imagens,n_desenhos,altura_conteudo_pt,altura_total_pt,pagina_inicial,pagina_final,coluna_inicial,n_colunas,coluna_unica,quebra_pagina,primeira_linha
+enem2025_dia1,2025,1,1,01_ING,questao,1,ING,Linguagens,ING,32,32.32,30,2,0.5,0.0,1,0,374.1,388.5,2,2,0,2,1,0,"Glory Ames, from the White Earth reservation, is frustrated that despite the pre"
+enem2025_dia1,2025,1,1,02_ING,questao,2,ING,Linguagens,ING,26,25.78,22,2,0.5,1.28,1,0,295.4,309.8,2,2,0,2,1,0,"My idea of philosophy is that if it is not relevant to human problems, if it doe"
+enem2025_dia1,2025,1,1,03_ING,questao,3,ING,Linguagens,ING,46,45.55,42,2,0.5,1.05,1,0,533.1,547.5,2,2,0,2,1,0,"Remember the sky that you were born under,"
+enem2025_dia1,2025,1,1,04_ING,questao,4,ING,Linguagens,ING,33,33.43,26,2,0.5,4.93,1,0,387.3,401.8,3,3,0,2,1,0,"It is true that all children are special, simply because they are children. But "
+enem2025_dia1,2025,1,1,05_ING,questao,5,ING,Linguagens,ING,71,70.64,14,2,47.85,6.79,2,1,834.7,849.1,3,3,0,2,1,0,Disponível em: https://pt.foursquare.com. Acesso em: 14 maio 2024.
+enem2025_dia1,2025,1,1,01_ESP,questao,1,ESP,Linguagens,ESP,22,22.32,18,1,0.25,3.07,1,0,261.1,268.3,4,4,0,1,0,0,"¿Dónde está nuestro pan, patrón?"
+enem2025_dia1,2025,1,1,02_ESP,questao,2,ESP,Linguagens,ESP,32,31.68,27,1,0.25,3.43,1,0,373.5,380.8,4,4,0,1,0,0,"Guagua, las palabras también migran"
+enem2025_dia1,2025,1,1,03_ESP,questao,3,ESP,Linguagens,ESP,34,34.31,30,1,0.44,2.87,1,1,405.2,412.5,4,4,1,1,0,0,Cuando yo era chiquito
+enem2025_dia1,2025,1,1,04_ESP,questao,4,ESP,Linguagens,ESP,63,62.86,14,2,41.34,5.52,2,0,741.1,755.6,5,5,0,2,1,0,"MORGAN, J. Disponível em: www3.gobiernodecanarias.org. Acesso em: 5 maio 2024."
+enem2025_dia1,2025,1,1,05_ESP,questao,5,ESP,Linguagens,ESP,43,43.31,34,2,0.88,6.43,1,1,506.1,520.6,5,5,0,2,1,0,¿Qué es la generación Alfa?
+enem2025_dia1,2025,1,1,T06-10,texto_base,6,,Linguagens,LC,110,110.48,100,2,2.77,5.71,0,2,1326.6,1341.1,6,6,0,2,1,0,Texto para as Questões de 06 a 10.
+enem2025_dia1,2025,1,1,06,questao,6,,Linguagens,LC,19,18.67,12,2,0.5,4.17,1,0,210.0,224.4,7,7,0,2,1,0,"No que diz respeito ao gênero bilhete, a autora dessa crônica"
+enem2025_dia1,2025,1,1,07,questao,7,,Linguagens,LC,18,18.43,12,2,0.5,3.93,1,0,207.1,221.6,7,7,0,2,1,0,O elemento que caracteriza esse texto como uma crônica é a
+enem2025_dia1,2025,1,1,08,questao,8,,Linguagens,LC,19,18.67,12,2,0.5,4.17,1,0,210.0,224.4,7,7,0,2,1,0,"Nesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita"
+enem2025_dia1,2025,1,1,09,questao,9,,Linguagens,LC,19,18.67,12,2,0.5,4.17,1,0,210.0,224.4,7,7,0,2,1,0,A autora conclui que as novas tecnologias de escrita
+enem2025_dia1,2025,1,1,10,questao,10,,Linguagens,LC,20,20.33,12,2,0.88,5.45,1,1,229.9,244.4,7,7,0,2,1,0,O recurso linguístico usado para marcar a síntese da opinião da autora sobre a t
+enem2025_dia1,2025,1,1,11,questao,11,,Linguagens,LC,34,34.2,32,1,0.25,0.95,1,0,403.8,411.1,8,8,0,1,0,0,"— Vejo, disse ele com algum acanhamento, que o doutor não"
+enem2025_dia1,2025,1,1,12,questao,12,,Linguagens,LC,22,21.63,19,1,0.25,1.38,1,0,252.8,260.0,8,8,0,1,0,0,O Ministério do Esporte no Brasil lançou o programa Maré
+enem2025_dia1,2025,1,1,13,questao,13,,Linguagens,LC,24,23.83,20,1,0.25,2.58,1,0,279.2,286.4,8,8,1,1,0,0,Art. 26-A. Nos estabelecimentos de ensino fundamental
+enem2025_dia1,2025,1,1,14,questao,14,,Linguagens,LC,32,32.01,8,1,20.22,2.79,2,0,377.6,384.8,8,8,1,1,0,0,Disponível em: www.publishnews.com.br. Acesso em: 19 set. 2024.
+enem2025_dia1,2025,1,1,15,questao,15,,Linguagens,LC,37,36.63,16,1,17.28,2.35,2,0,433.0,440.3,9,9,0,1,0,0,O retrato como gênero da pintura ocidental ficou vinculado
+enem2025_dia1,2025,1,1,16,questao,16,,Linguagens,LC,27,26.97,24,1,0.25,1.72,1,0,316.9,324.1,9,9,0,2,0,0,Símbolos
+enem2025_dia1,2025,1,1,17,questao,17,,Linguagens,LC,33,32.71,28,1,0.44,3.27,1,1,385.9,393.1,9,9,1,1,0,0,Antes do inverno chegar.
+enem2025_dia1,2025,1,1,18,questao,18,,Linguagens,LC,32,32.09,29,1,0.25,1.84,1,0,378.5,385.7,10,10,0,1,0,0,"Com 20 anos de experiência no futebol de alto rendimento,"
+enem2025_dia1,2025,1,1,19,questao,19,,Linguagens,LC,24,23.74,20,1,0.25,2.49,1,0,278.2,285.4,10,10,0,1,0,0,No predomínio das mulheres pretas brasileiras nos Jogos
+enem2025_dia1,2025,1,1,20,questao,20,,Linguagens,LC,30,30.29,26,1,0.25,3.04,1,0,356.8,364.1,10,10,1,1,0,0,A característica fundamental no aprendizado das práticas
+enem2025_dia1,2025,1,1,21,questao,21,,Linguagens,LC,26,25.51,21,1,0.25,3.26,1,0,299.4,306.6,10,10,1,1,0,0,O meu medo é entrar na faculdade e tirar zero eu que nunca
+enem2025_dia1,2025,1,1,22,questao,22,,Linguagens,LC,47,46.63,25,1,16.36,4.26,2,1,553.3,560.5,11,11,0,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,23,questao,23,,Linguagens,LC,55,55.24,22,1,28.71,3.53,2,0,663.9,671.2,11,11,1,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,24,questao,24,,Linguagens,LC,68,67.84,14,2,47.94,3.89,2,0,801.0,815.4,12,12,0,2,1,0,Disponível em: www.unicef.org.br. Acesso em: 15 jan. 2024 (adaptado).
+enem2025_dia1,2025,1,1,25,questao,25,,Linguagens,LC,44,43.81,36,2,0.5,5.31,1,0,512.1,526.6,12,12,0,2,1,0,"Passando por aqui para lembrar algumas palavras, frases e expressões que nos inf"
+enem2025_dia1,2025,1,1,26,questao,26,,Linguagens,LC,35,35.49,8,1,23.61,2.88,2,0,419.4,426.6,13,13,0,1,0,0,"Revista Língua Portuguesa, n. 31, maio 2008 (adaptado)."
+enem2025_dia1,2025,1,1,27,questao,27,,Linguagens,LC,20,20.34,17,1,0.25,2.09,1,0,237.2,244.4,13,13,0,1,0,0,A diferença entre briga e luta é a existência de juízes e medalhas?
+enem2025_dia1,2025,1,1,28,questao,28,,Linguagens,LC,28,28.38,24,1,0.25,3.13,1,0,333.9,341.2,13,13,1,1,0,0,Pequenino morto
+enem2025_dia1,2025,1,1,29,questao,29,,Linguagens,LC,27,27.43,23,1,0.25,3.18,1,0,322.5,329.7,13,13,1,1,0,0,Só entende os corações desse lugar quem mergulha nesse
+enem2025_dia1,2025,1,1,30,questao,30,,Linguagens,LC,28,27.98,26,1,0.25,0.73,1,0,329.2,336.4,14,14,0,1,0,0,Uruku
+enem2025_dia1,2025,1,1,31,questao,31,,Linguagens,LC,28,27.85,9,1,16.96,0.89,2,0,327.6,334.8,14,14,0,1,0,0,"MURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em:"
+enem2025_dia1,2025,1,1,32,questao,32,,Linguagens,LC,30,30.25,28,1,0.25,1.0,1,0,356.4,363.6,14,14,1,1,0,0,"Muitos pensam que narrativa curta é sinônimo de conto,"
+enem2025_dia1,2025,1,1,33,questao,33,,Linguagens,LC,26,25.59,10,1,11.82,2.77,2,0,300.4,307.6,14,14,1,1,0,0,Disponível em: www.tjdft.jus.br. Acesso em: 15 out. 2024 (adaptado).
+enem2025_dia1,2025,1,1,34,questao,34,,Linguagens,LC,48,47.97,12,1,31.78,3.19,2,1,569.4,576.6,15,15,0,1,0,0,Disponível em: https://revistagalileu.globo.com.
+enem2025_dia1,2025,1,1,35,questao,35,,Linguagens,LC,29,29.03,25,1,0.25,2.78,1,0,341.7,348.9,15,15,1,1,0,0,Margot Robbie foi criticada por “não ser bonita o suficiente”
+enem2025_dia1,2025,1,1,36,questao,36,,Linguagens,LC,27,26.79,23,1,0.25,2.54,1,0,314.8,322.0,15,15,1,1,0,0,I: o nome do filme é roupa suja ... eu assisti na minha casa ...
+enem2025_dia1,2025,1,1,37,questao,37,,Linguagens,LC,64,64.43,54,2,0.5,7.93,1,0,760.0,774.4,16,16,0,2,1,0,TEXTO I
+enem2025_dia1,2025,1,1,38,questao,38,,Linguagens,LC,42,41.89,32,2,0.88,7.01,1,1,489.1,503.6,16,16,0,2,1,0,1
+enem2025_dia1,2025,1,1,39,questao,39,,Linguagens,LC,45,44.59,36,2,0.5,6.09,1,0,521.5,536.0,17,17,0,2,1,0,Do rádio ao podcast
+enem2025_dia1,2025,1,1,40,questao,40,,Linguagens,LC,62,62.22,52,2,0.88,7.34,1,1,733.5,747.9,17,17,0,2,1,0,"Desenvolvendo-se nesse meio, é natural que Celina, filha mais velha de D. Adozin"
+enem2025_dia1,2025,1,1,41,questao,41,,Linguagens,LC,67,66.95,38,2,16.82,10.13,2,0,790.3,804.7,18,18,0,2,1,0,TEXTO I
+enem2025_dia1,2025,1,1,42,questao,42,,Linguagens,LC,45,44.63,14,24,23.11,0.0,1,1,522.1,536.5,18,18,0,2,1,0,TRADUZINDO O JURIDIQUÊS
+enem2025_dia1,2025,1,1,43,questao,43,,Linguagens,LC,32,32.43,28,1,0.25,3.18,1,0,382.6,389.8,19,19,0,1,0,0,"Em 1995, os Jenipapo-Kanindé quebraram a tradição da"
+enem2025_dia1,2025,1,1,44,questao,44,,Linguagens,LC,35,35.38,31,1,0.25,3.13,1,0,418.0,425.3,19,19,0,2,0,0,Porque ler para crianças é um ato de amor
+enem2025_dia1,2025,1,1,45,questao,45,,Linguagens,LC,39,38.61,13,1,21.27,3.34,2,1,456.8,464.1,19,19,1,1,0,0,A artista Marija Tiurina criou uma série chamada Palavras
+enem2025_dia1,2025,1,1,46,questao,46,,Ciências Humanas,CH,34,33.69,28,2,0.5,3.19,1,0,390.5,404.9,22,22,0,2,1,0,Macedônia do Norte
+enem2025_dia1,2025,1,1,47,questao,47,,Ciências Humanas,CH,46,46.01,16,2,23.4,4.61,2,0,538.6,553.0,22,22,0,2,1,0,Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019
+enem2025_dia1,2025,1,1,48,questao,48,,Ciências Humanas,CH,26,26.1,20,2,0.5,3.61,1,0,299.3,313.8,22,22,0,2,1,0,"A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento "
+enem2025_dia1,2025,1,1,49,questao,49,,Ciências Humanas,CH,47,46.64,17,1,25.4,3.23,2,0,553.3,560.6,23,23,0,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,50,questao,50,,Ciências Humanas,CH,17,17.12,14,1,0.25,1.87,1,0,198.6,205.8,23,23,0,2,0,0,"O direito não é a justiça. O direito é o elemento do cálculo,"
+enem2025_dia1,2025,1,1,51,questao,51,,Ciências Humanas,CH,47,47.24,41,2,0.96,3.28,1,1,560.6,567.8,23,23,1,1,0,0,Sinal fechado
+enem2025_dia1,2025,1,1,52,questao,52,,Ciências Humanas,CH,23,22.5,19,1,0.25,2.25,1,0,263.3,270.5,24,24,0,1,0,0,"Não há consenso em torno do nome dado à pandemia,"
+enem2025_dia1,2025,1,1,53,questao,53,,Ciências Humanas,CH,27,26.84,22,1,0.44,3.4,1,1,315.4,322.6,24,24,0,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,54,questao,54,,Ciências Humanas,CH,21,20.84,19,1,0.25,0.6,1,0,243.3,250.6,24,24,1,1,0,0,A ideia de êxodo urbano assume ares caricaturais. Pega a mais
+enem2025_dia1,2025,1,1,55,questao,55,,Ciências Humanas,CH,18,18.36,16,1,0.25,1.11,1,0,213.5,220.7,24,24,1,1,0,0,A “invenção” dessa nova anatomia política não deve
+enem2025_dia1,2025,1,1,56,questao,56,,Ciências Humanas,CH,17,16.64,14,1,0.25,1.39,1,0,192.8,200.1,24,24,1,1,0,0,"Por séculos, o Rio Reno tem sido uma rota de navegação"
+enem2025_dia1,2025,1,1,57,questao,57,,Ciências Humanas,CH,23,23.3,20,1,0.25,2.05,1,0,272.9,280.1,25,25,0,1,0,0,"Dos 10 aos 15 anos de idade, Virgínia adorava acompanhar"
+enem2025_dia1,2025,1,1,58,questao,58,,Ciências Humanas,CH,22,22.1,18,1,0.44,2.66,1,1,258.4,265.6,25,25,0,1,0,0,"Em 1872, havia mais de 1 milhão de votantes, correspondentes"
+enem2025_dia1,2025,1,1,59,questao,59,,Ciências Humanas,CH,21,21.39,18,1,0.25,2.14,1,0,249.8,257.1,25,25,1,1,0,0,"Pela falta de chuvas, a geração de energia eólica, solar e"
+enem2025_dia1,2025,1,1,60,questao,60,,Ciências Humanas,CH,17,16.7,13,1,0.25,2.46,1,0,193.6,200.8,25,25,1,1,0,0,Adam Smith via o açougueiro e o padeiro não só como
+enem2025_dia1,2025,1,1,61,questao,61,,Ciências Humanas,CH,18,17.72,13,2,0.96,1.76,1,1,205.8,213.0,25,25,1,1,0,0,O corpo de cidadãos é o poder supremo dos Estados.
+enem2025_dia1,2025,1,1,62,questao,62,,Ciências Humanas,CH,29,28.9,22,2,0.5,4.4,1,0,332.9,347.3,26,26,0,2,1,0,"Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação"
+enem2025_dia1,2025,1,1,63,questao,63,,Ciências Humanas,CH,54,54.12,20,2,26.02,6.1,2,0,636.1,650.5,26,26,0,2,1,0,Produção e exportações brasileiras no ranking mundial em 2019
+enem2025_dia1,2025,1,1,64,questao,64,,Ciências Humanas,CH,29,28.66,22,2,0.5,4.16,1,0,330.0,344.5,26,26,0,2,1,0,"Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento"
+enem2025_dia1,2025,1,1,65,questao,65,,Ciências Humanas,CH,23,23.21,20,1,0.25,1.96,1,0,271.8,279.0,27,27,0,1,0,0,O que eu queria ter sido
+enem2025_dia1,2025,1,1,66,questao,66,,Ciências Humanas,CH,19,19.43,17,1,0.25,1.18,1,0,226.3,233.6,27,27,0,1,0,0,"Independência de pensamento, autonomia e direito"
+enem2025_dia1,2025,1,1,67,questao,67,,Ciências Humanas,CH,20,20.24,18,1,0.25,0.99,1,0,236.1,243.3,27,27,0,2,0,0,"Do ponto de vista administrativo e judicial, a desapropriação"
+enem2025_dia1,2025,1,1,68,questao,68,,Ciências Humanas,CH,28,27.62,10,1,14.05,2.57,2,0,324.8,332.0,27,27,1,1,0,0,"Salvador, capital do estado da Bahia."
+enem2025_dia1,2025,1,1,69,questao,69,,Ciências Humanas,CH,20,20.47,17,2,0.96,0.51,1,1,238.8,246.0,27,27,1,1,0,0,"A difusão pelos cônegos do ideal apostólico, bem como"
+enem2025_dia1,2025,1,1,70,questao,70,,Ciências Humanas,CH,20,20.44,18,1,0.25,1.19,1,0,238.5,245.7,28,28,0,1,0,0,"Nos Estados Unidos, um hotel perto de um parque foi engolido"
+enem2025_dia1,2025,1,1,71,questao,71,,Ciências Humanas,CH,17,17.34,15,1,0.25,1.09,1,0,201.2,208.5,28,28,0,1,0,0,Moradores de Berlim protestaram contra a demolição de
+enem2025_dia1,2025,1,1,72,questao,72,,Ciências Humanas,CH,18,18.06,15,1,0.25,1.81,1,0,209.9,217.1,28,28,0,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,73,questao,73,,Ciências Humanas,CH,21,21.1,18,1,0.25,1.85,1,0,246.4,253.6,28,28,1,1,0,0,Entre esses preconceitos estava o canibalismo. A prática não
+enem2025_dia1,2025,1,1,74,questao,74,,Ciências Humanas,CH,19,18.92,16,1,0.25,1.67,1,0,220.2,227.4,28,28,1,1,0,0,"Fragmentada em pequenos grupos, fragilizada pela ausência"
+enem2025_dia1,2025,1,1,75,questao,75,,Ciências Humanas,CH,16,15.83,13,1,0.25,1.58,1,0,183.0,190.2,28,28,1,1,0,0,"A partir do século XIX e, principalmente, no século XX, iniciou-se"
+enem2025_dia1,2025,1,1,76,questao,76,,Ciências Humanas,CH,23,23.03,19,1,0.25,2.78,1,0,269.6,276.8,29,29,0,1,0,0,"Os direitos do homem constituem uma classe variável, como"
+enem2025_dia1,2025,1,1,77,questao,77,,Ciências Humanas,CH,33,32.8,18,1,10.22,3.57,2,0,387.0,394.2,29,29,0,1,0,0,"Carro elétrico, uma miragem ecológica"
+enem2025_dia1,2025,1,1,78,questao,78,,Ciências Humanas,CH,19,18.54,16,1,0.25,1.29,1,0,215.7,222.9,29,29,1,1,0,0,A Roda dos Expostos de Salvador (Bahia) data de 1726 e
+enem2025_dia1,2025,1,1,79,questao,79,,Ciências Humanas,CH,20,20.14,17,1,0.25,1.89,1,0,234.8,242.0,29,29,1,1,0,0,A missão dos governantes consiste em promover a felicidade
+enem2025_dia1,2025,1,1,80,questao,80,,Ciências Humanas,CH,17,17.13,13,2,0.96,1.17,1,1,198.7,205.9,29,29,1,1,0,0,Cidade sustentável é o assentamento humano constituído
+enem2025_dia1,2025,1,1,81,questao,81,,Ciências Humanas,CH,18,17.8,15,1,0.25,1.55,1,0,206.7,213.9,30,30,0,1,0,0,Em decorrência da naturalização da inferioridade social
+enem2025_dia1,2025,1,1,82,questao,82,,Ciências Humanas,CH,18,17.91,15,1,0.25,1.66,1,0,208.1,215.3,30,30,0,1,0,0,"A cidade justa é governada pelos filósofos, administrada"
+enem2025_dia1,2025,1,1,83,questao,83,,Ciências Humanas,CH,20,20.11,17,1,0.25,1.86,1,0,234.5,241.8,30,30,0,1,0,0,A Impressão Régia do Rio de Janeiro foi criada pelo decreto de
+enem2025_dia1,2025,1,1,84,questao,84,,Ciências Humanas,CH,25,25.5,22,1,0.25,2.25,1,0,299.3,306.5,30,30,1,1,0,0,Com o objetivo de auxiliar a prevenção e o combate a
+enem2025_dia1,2025,1,1,85,questao,85,,Ciências Humanas,CH,27,26.63,21,1,0.44,4.19,1,1,312.8,320.1,30,30,1,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,86,questao,86,,Ciências Humanas,CH,21,20.8,18,1,0.25,1.55,1,0,242.8,250.0,31,31,0,1,0,0,Pesquisa pioneira no Brasil propõe o uso de
+enem2025_dia1,2025,1,1,87,questao,87,,Ciências Humanas,CH,16,15.79,12,1,0.25,2.54,1,0,182.6,189.8,31,31,0,1,0,0,"Durante a realeza, e nos primeiros anos republicanos,"
+enem2025_dia1,2025,1,1,88,questao,88,,Ciências Humanas,CH,19,19.24,17,1,0.25,1.0,1,0,224.1,231.3,31,31,0,1,0,0,"Os povos indígenas têm o direito de manter, controlar, proteger"
+enem2025_dia1,2025,1,1,89,questao,89,,Ciências Humanas,CH,28,27.54,22,1,0.25,4.29,1,0,323.8,331.0,31,31,1,1,0,0,TEXTO I
+enem2025_dia1,2025,1,1,90,questao,90,,Ciências Humanas,CH,26,26.33,22,1,1.15,2.18,1,2,309.2,316.5,31,31,1,1,0,0,"Em 1914, uma expedição estudantil saiu da Rússia em direção"

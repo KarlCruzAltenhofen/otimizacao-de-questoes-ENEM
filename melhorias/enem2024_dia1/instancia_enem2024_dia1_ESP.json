@@ -1,0 +1,64 @@
+{
+ "nome": "enem2024_dia1_ESP",
+ "prova": "enem2024_dia1",
+ "ano": 2024,
+ "dia": 1,
+ "caderno": 1,
+ "arquivo": "2024_D1_CD1.pdf",
+ "secao": "ESP",
+ "descricao": "Linguagens: língua estrangeira espanhol (01-05)",
+ "n": 5,
+ "L": 116,
+ "titulo_linhas": 0,
+ "titulo_pt": 0.0,
+ "L_pagina1": 116,
+ "ids": [
+  "01_ESP",
+  "02_ESP",
+  "03_ESP",
+  "04_ESP",
+  "05_ESP"
+ ],
+ "w": [
+  42,
+  25,
+  33,
+  26,
+  32
+ ],
+ "w_float": [
+  42.4,
+  25.11,
+  33.36,
+  26.47,
+  31.86
+ ],
+ "paginas_enem": {
+  "n_paginas": 2,
+  "paginas": [
+   3,
+   4
+  ],
+  "comeca_em_pagina_nova": false,
+  "itens_por_pagina": {
+   "3": [
+    "01_ESP"
+   ],
+   "4": [
+    "02_ESP",
+    "03_ESP",
+    "04_ESP",
+    "05_ESP"
+   ]
+  }
+ },
+ "calibracao": {
+  "entrelinha_pt": 11.7,
+  "fonte_corpo_pt": 9.75,
+  "topo_pt": 65.3,
+  "base_pt": 744.9,
+  "altura_coluna_pt": 679.6,
+  "linhas_por_coluna": 58.09,
+  "folga_entre_questoes_pt": 7.11
+ }
+}

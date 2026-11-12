@@ -1,0 +1,64 @@
+{
+ "nome": "enem2023_dia1_ESP",
+ "prova": "enem2023_dia1",
+ "ano": 2023,
+ "dia": 1,
+ "caderno": 1,
+ "arquivo": "2023_D1_CD1.pdf",
+ "secao": "ESP",
+ "descricao": "Linguagens: língua estrangeira espanhol (01-05)",
+ "n": 5,
+ "L": 115,
+ "titulo_linhas": 2,
+ "titulo_pt": 21.5,
+ "L_pagina1": 113,
+ "ids": [
+  "01_ESP",
+  "02_ESP",
+  "03_ESP",
+  "04_ESP",
+  "05_ESP"
+ ],
+ "w": [
+  56,
+  41,
+  32,
+  34,
+  42
+ ],
+ "w_float": [
+  55.85,
+  40.61,
+  31.52,
+  34.38,
+  42.34
+ ],
+ "paginas_enem": {
+  "n_paginas": 2,
+  "paginas": [
+   4,
+   5
+  ],
+  "comeca_em_pagina_nova": true,
+  "itens_por_pagina": {
+   "4": [
+    "01_ESP",
+    "02_ESP"
+   ],
+   "5": [
+    "03_ESP",
+    "04_ESP",
+    "05_ESP"
+   ]
+  }
+ },
+ "calibracao": {
+  "entrelinha_pt": 11.7,
+  "fonte_corpo_pt": 9.75,
+  "topo_pt": 64.8,
+  "base_pt": 735.3,
+  "altura_coluna_pt": 670.5,
+  "linhas_por_coluna": 57.3,
+  "folga_entre_questoes_pt": 6.74
+ }
+}

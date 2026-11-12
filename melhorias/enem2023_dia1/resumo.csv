@@ -1,0 +1,5 @@
+﻿prova,secao,n_itens,L,titulo_linhas,soma_w,w_min,w_max,paginas_enem,lim_inferior,ffd,comeca_em_pagina_nova
+enem2023_dia1,ING,5,115,4,161,19,43,2,2,2,1
+enem2023_dia1,ESP,5,115,2,205,32,56,2,2,2,1
+enem2023_dia1,LC,40,115,3,1359,20,51,13,12,13,1
+enem2023_dia1,CH,45,115,3,1318,18,82,12,12,12,1

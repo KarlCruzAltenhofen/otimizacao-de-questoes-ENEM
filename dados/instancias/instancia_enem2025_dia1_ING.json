@@ -1,0 +1,64 @@
+{
+ "nome": "enem2025_dia1_ING",
+ "prova": "enem2025_dia1",
+ "ano": 2025,
+ "dia": 1,
+ "caderno": 1,
+ "arquivo": "2025_D1_CD1.pdf",
+ "secao": "ING",
+ "descricao": "Linguagens: língua estrangeira inglês (01-05)",
+ "n": 5,
+ "L": 111,
+ "titulo_linhas": 4,
+ "titulo_pt": 48.2,
+ "L_pagina1": 107,
+ "ids": [
+  "01_ING",
+  "02_ING",
+  "03_ING",
+  "04_ING",
+  "05_ING"
+ ],
+ "w": [
+  32,
+  26,
+  46,
+  33,
+  71
+ ],
+ "w_float": [
+  32.32,
+  25.78,
+  45.55,
+  33.43,
+  70.64
+ ],
+ "paginas_enem": {
+  "n_paginas": 2,
+  "paginas": [
+   2,
+   3
+  ],
+  "comeca_em_pagina_nova": true,
+  "itens_por_pagina": {
+   "2": [
+    "01_ING",
+    "02_ING",
+    "03_ING"
+   ],
+   "3": [
+    "04_ING",
+    "05_ING"
+   ]
+  }
+ },
+ "calibracao": {
+  "entrelinha_pt": 12.02,
+  "fonte_corpo_pt": 10.0,
+  "topo_pt": 76.2,
+  "base_pt": 740.1,
+  "altura_coluna_pt": 663.9,
+  "linhas_por_coluna": 55.24,
+  "folga_entre_questoes_pt": 7.22
+ }
+}

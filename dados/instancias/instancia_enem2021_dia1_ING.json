@@ -1,0 +1,64 @@
+{
+ "nome": "enem2021_dia1_ING",
+ "prova": "enem2021_dia1",
+ "ano": 2021,
+ "dia": 1,
+ "caderno": 1,
+ "arquivo": "2021_D1_CD1.pdf",
+ "secao": "ING",
+ "descricao": "Linguagens: língua estrangeira inglês (01-05)",
+ "n": 5,
+ "L": 114,
+ "titulo_linhas": 4,
+ "titulo_pt": 41.7,
+ "L_pagina1": 110,
+ "ids": [
+  "01_ING",
+  "02_ING",
+  "03_ING",
+  "04_ING",
+  "05_ING"
+ ],
+ "w": [
+  39,
+  42,
+  33,
+  32,
+  36
+ ],
+ "w_float": [
+  39.22,
+  42.45,
+  32.56,
+  32.31,
+  35.86
+ ],
+ "paginas_enem": {
+  "n_paginas": 2,
+  "paginas": [
+   2,
+   3
+  ],
+  "comeca_em_pagina_nova": true,
+  "itens_por_pagina": {
+   "2": [
+    "01_ING",
+    "02_ING"
+   ],
+   "3": [
+    "03_ING",
+    "04_ING",
+    "05_ING"
+   ]
+  }
+ },
+ "calibracao": {
+  "entrelinha_pt": 11.7,
+  "fonte_corpo_pt": 9.75,
+  "topo_pt": 76.5,
+  "base_pt": 740.7,
+  "altura_coluna_pt": 664.2,
+  "linhas_por_coluna": 56.77,
+  "folga_entre_questoes_pt": 7.73
+ }
+}

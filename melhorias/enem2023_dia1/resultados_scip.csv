@@ -1,0 +1,5 @@
+﻿prova,secao,n_itens,L,soma_w,paginas_enem,lim_inferior,ffd,paginas_scip,economia,status,limitante,tempo_s,alocacao,arquivo,observacao
+enem2023_dia1,ING,5,115,161,2,2,2,2,0,optimal,2.0,0.0,p1: 01_ING 02_ING 03_ING; p2: 04_ING 05_ING,enem2023_dia1_ING.mps,
+enem2023_dia1,ESP,5,115,205,2,2,2,2,0,optimal,2.0,0.0,p1: 01_ESP 02_ESP; p2: 03_ESP 04_ESP 05_ESP,enem2023_dia1_ESP.mps,
+enem2023_dia1,LC,40,115,1359,13,12,13,12,1,optimal,12.0,23.7,p1: 18 30 40; p6: 24 28 29 42; p9: 13 35 45; p10: 09 36 39 41; p11: 07 15 20; p12: 33 34 37; p13: 11 23 32; p14: 14 16 44; p15: 10 19 22; p16: 17 21 25 38; p17: 08 12 43; p18: 06 26 27 31,enem2023_dia1_LC.mps,"alocação diagramável sem redução (semente 4, 6 soluções ótimas testadas)"
+enem2023_dia1,CH,45,115,1318,12,12,12,12,0,optimal,12.0,0.0,p1: 46 47 48 50; p2: 59 64 73 78 80; p3: 53 68 71 75 88; p4: 84 89; p5: 56 57 79; p6: 51 54 61 67 77; p7: 72 76 83; p8: 63 69 74 81; p9: 55 60 82 85; p10: 49 52 66 86; p11: 58 65 70; p44: 62 87 90,enem2023_dia1_CH.mps,

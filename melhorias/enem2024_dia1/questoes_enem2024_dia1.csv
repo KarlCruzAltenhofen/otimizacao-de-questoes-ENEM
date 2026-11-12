@@ -1,0 +1,96 @@
+﻿prova,ano,dia,caderno,id,tipo,numero,lingua,area,secao,w,linhas,linhas_texto,linhas_texto_em_figura,linhas_figura,linhas_espaco,n_imagens,n_desenhos,altura_conteudo_pt,altura_total_pt,pagina_inicial,pagina_final,coluna_inicial,n_colunas,coluna_unica,quebra_pagina,primeira_linha
+enem2024_dia1,2024,1,1,01_ING,questao,1,ING,Linguagens,ING,46,46.29,9,1,33.82,2.47,1,2,534.5,541.6,2,2,0,1,0,0,Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.
+enem2024_dia1,2024,1,1,02_ING,questao,2,ING,Linguagens,ING,23,23.42,17,1,0.43,5.0,0,2,266.9,274.1,2,2,1,1,0,0,"Oh, so we can hate each other and fear each other"
+enem2024_dia1,2024,1,1,03_ING,questao,3,ING,Linguagens,ING,30,30.14,12,1,14.65,2.49,1,2,345.5,352.6,2,2,1,1,0,0,Disponível em: www.hongkiat.com. Acesso em: 18 ago. 2017 (adaptado).
+enem2024_dia1,2024,1,1,04_ING,questao,4,ING,Linguagens,ING,25,24.7,22,1,0.43,1.27,0,2,281.9,289.0,3,3,0,1,0,0,I remember being caught speaking Spanish at recess
+enem2024_dia1,2024,1,1,05_ING,questao,5,ING,Linguagens,ING,35,34.88,9,1,22.74,2.13,1,2,401.0,408.1,3,3,0,2,0,0,Disponível em: www.clickhole.com. Acesso em: 26 out. 2015.
+enem2024_dia1,2024,1,1,01_ESP,questao,1,ESP,Linguagens,ESP,42,42.4,38,1,0.43,2.97,0,2,488.9,496.1,3,3,1,1,0,0,El vírus de la cancelación
+enem2024_dia1,2024,1,1,02_ESP,questao,2,ESP,Linguagens,ESP,25,25.11,21,1,0.43,2.68,0,2,286.7,293.8,4,4,0,1,0,0,"“Y si llueve, que llueva” es un refrán gallego. Para mí cobró"
+enem2024_dia1,2024,1,1,03_ESP,questao,3,ESP,Linguagens,ESP,33,33.36,29,1,0.43,2.94,0,2,383.2,390.4,4,4,0,1,0,0,Celerina Patricia Sánchez Santiago comentó que su
+enem2024_dia1,2024,1,1,04_ESP,questao,4,ESP,Linguagens,ESP,26,26.47,25,1,0.43,0.04,0,2,302.5,309.7,4,4,1,1,0,0,Morir muy vivos
+enem2024_dia1,2024,1,1,05_ESP,questao,5,ESP,Linguagens,ESP,32,31.86,29,1,0.43,1.43,0,2,365.7,372.8,4,4,1,1,0,0,Los últimos días del sitio de Tenochtitlán
+enem2024_dia1,2024,1,1,06,questao,6,,Linguagens,LC,39,38.57,34,1,0.43,3.15,0,2,444.2,451.3,5,5,0,1,0,0,Expressões e termos utilizados no Amazonas
+enem2024_dia1,2024,1,1,07,questao,7,,Linguagens,LC,42,42.28,36,1,0.43,4.85,0,2,487.6,494.7,5,5,0,2,0,0,Conheça histórias de atletas paralímpicas que
+enem2024_dia1,2024,1,1,08,questao,8,,Linguagens,LC,33,33.06,29,1,0.43,2.64,0,2,379.7,386.8,5,5,1,1,0,0,"É fundamentalmente no Minho, norte de Portugal, que o"
+enem2024_dia1,2024,1,1,09,questao,9,,Linguagens,LC,31,30.79,26,1,0.43,3.37,0,2,353.1,360.3,6,6,0,1,0,0,"Pressão, depressão, estresse e crise de ansiedade."
+enem2024_dia1,2024,1,1,10,questao,10,,Linguagens,LC,28,27.67,23,1,0.43,3.24,0,2,316.6,323.7,6,6,0,1,0,0,Já ouvi gente falando que o podcast é o renascimento
+enem2024_dia1,2024,1,1,11,questao,11,,Linguagens,LC,40,40.14,37,1,0.43,1.72,0,2,462.6,469.7,6,6,1,1,0,0,Evanildo Bechara prepara a sua aposentadoria de pouco
+enem2024_dia1,2024,1,1,12,questao,12,,Linguagens,LC,37,37.04,33,1,0.43,2.61,0,2,426.2,433.3,7,7,0,1,0,0,"A Língua da Tabatinga, falada na cidade de"
+enem2024_dia1,2024,1,1,13,questao,13,,Linguagens,LC,44,44.48,40,1,0.43,3.06,0,2,513.3,520.5,7,7,0,2,0,0,Diante do pouco dinheiro para produtos básicos de
+enem2024_dia1,2024,1,1,14,questao,14,,Linguagens,LC,34,34.46,30,1,0.43,3.04,0,2,396.1,403.2,7,7,1,1,0,0,Maranhenses que moram longe matam a saudade da
+enem2024_dia1,2024,1,1,15,questao,15,,Linguagens,LC,52,51.88,47,1,0.43,3.46,0,2,599.9,607.0,8,8,0,1,0,0,"Telemedicina é para todos,"
+enem2024_dia1,2024,1,1,16,questao,16,,Linguagens,LC,31,30.92,28,1,0.43,1.5,0,2,354.7,361.8,8,8,1,1,0,0,Uma definição possível para o conceito de arte
+enem2024_dia1,2024,1,1,17,questao,17,,Linguagens,LC,28,27.56,25,1,0.43,1.13,0,2,315.3,322.4,8,8,1,1,0,0,Influenciadores negros têm recorrentemente chamado
+enem2024_dia1,2024,1,1,18,questao,18,,Linguagens,LC,35,34.92,33,1,0.43,0.5,0,2,401.5,408.6,9,9,0,1,0,0,Um estudo norte-americano analisou os efeitos
+enem2024_dia1,2024,1,1,19,questao,19,,Linguagens,LC,32,32.49,30,1,0.43,1.07,0,2,373.0,380.2,9,9,0,2,0,0,Até ali que sabia das misérias do mundo? Nada.
+enem2024_dia1,2024,1,1,20,questao,20,,Linguagens,LC,39,38.52,34,1,0.43,3.09,0,2,443.6,450.7,9,9,1,1,0,0,Sempre passo nervoso quando leio minha crônica
+enem2024_dia1,2024,1,1,21,questao,21,,Linguagens,LC,53,53.46,27,1,21.5,3.96,1,2,618.4,625.5,10,10,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,22,questao,22,,Linguagens,LC,49,49.07,42,1,0.43,5.64,0,2,567.0,574.1,10,10,1,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,23,questao,23,,Linguagens,LC,32,31.7,31,1,0.43,0.0,0,2,363.8,370.9,11,11,0,1,0,0,As reações à sétima temporada foram o ápice do último
+enem2024_dia1,2024,1,1,24,questao,24,,Linguagens,LC,27,26.65,23,1,0.43,2.22,0,2,304.6,311.8,11,11,0,1,0,0,"— Vá para o inferno, Gondim. Você acanalhou o troço."
+enem2024_dia1,2024,1,1,25,questao,25,,Linguagens,LC,49,48.69,17,1,28.09,2.6,1,2,562.6,569.7,11,11,1,1,0,0,"VISCONTI, E. Três meninas no jardim. Óleo sobre tela,"
+enem2024_dia1,2024,1,1,26,questao,26,,Linguagens,LC,28,28.36,28,1,0.43,0.0,0,2,324.7,331.9,12,12,0,1,0,0,"Por trás do universo “masculino” das lutas, é cada"
+enem2024_dia1,2024,1,1,27,questao,27,,Linguagens,LC,30,30.0,29,1,0.43,0.0,0,2,343.8,351.0,12,12,0,1,0,0,"Volta e meia recebo cartinhas de fãs, e alguns são bem"
+enem2024_dia1,2024,1,1,28,questao,28,,Linguagens,LC,51,51.12,46,1,0.43,3.7,0,2,591.0,598.2,12,12,1,1,0,0,Data venia
+enem2024_dia1,2024,1,1,29,questao,29,,Linguagens,LC,25,25.33,23,1,0.43,0.9,0,2,289.2,296.3,13,13,0,1,0,0,"Meu irmão é filho adotivo. Há uma tecnicidade no termo,"
+enem2024_dia1,2024,1,1,30,questao,30,,Linguagens,LC,56,55.81,55,1,0.43,0.0,0,2,645.9,653.0,13,13,0,2,0,0,TEXTO I
+enem2024_dia1,2024,1,1,31,questao,31,,Linguagens,LC,33,32.82,28,1,0.43,3.39,0,2,376.9,384.0,13,13,1,1,0,0,Cap. XLVIII / Terpsícore
+enem2024_dia1,2024,1,1,32,questao,32,,Linguagens,LC,32,32.43,27,1,0.43,4.0,0,2,372.3,379.4,14,14,0,1,0,0,Marília acorda
+enem2024_dia1,2024,1,1,33,questao,33,,Linguagens,LC,26,25.9,10,1,12.26,2.64,1,2,295.9,303.0,14,14,0,1,0,0,Disponível em: https://defesacivil.rs.gov.br.
+enem2024_dia1,2024,1,1,34,questao,34,,Linguagens,LC,44,43.88,39,1,0.43,3.46,0,2,506.3,513.4,14,14,1,1,0,0,Teclado amazônico
+enem2024_dia1,2024,1,1,35,questao,35,,Linguagens,LC,54,53.82,44,2,0.85,6.96,0,2,615.4,629.7,15,15,0,2,1,0,"— Eu lhe juro, Aurélia. Estes lábios nunca tocaram a face de outra mulher, que n"
+enem2024_dia1,2024,1,1,36,questao,36,,Linguagens,LC,63,62.89,24,2,29.83,7.06,2,2,721.6,735.8,15,15,0,2,1,0,TEXTO I
+enem2024_dia1,2024,1,1,37,questao,37,,Linguagens,LC,36,35.64,32,1,0.43,2.21,0,2,409.8,416.9,16,16,0,1,0,0,"Se você é feito de música, este texto é pra você"
+enem2024_dia1,2024,1,1,38,questao,38,,Linguagens,LC,23,22.84,20,1,0.43,1.42,0,2,260.1,267.3,16,16,0,1,0,0,pessoas com suas malas
+enem2024_dia1,2024,1,1,39,questao,39,,Linguagens,LC,44,44.0,39,1,0.43,3.58,0,2,507.7,514.8,16,16,1,1,0,0,"Falar errado é uma arte, Arnesto!"
+enem2024_dia1,2024,1,1,40,questao,40,,Linguagens,LC,25,24.91,22,1,0.43,1.48,0,2,284.3,291.4,17,17,0,1,0,0,"O festival folclórico de Parintins, no Amazonas,"
+enem2024_dia1,2024,1,1,41,questao,41,,Linguagens,LC,33,33.45,31,1,0.43,1.02,0,2,384.2,391.3,17,17,0,1,0,0,O Brasil somou cerca de 60 mil novos casos de câncer
+enem2024_dia1,2024,1,1,42,questao,42,,Linguagens,LC,58,58.09,46,1,0.43,10.66,0,2,675.7,682.8,17,17,1,1,0,0,Feijoada à minha moda
+enem2024_dia1,2024,1,1,43,questao,43,,Linguagens,LC,39,39.45,25,1,12.59,0.86,1,2,454.5,461.6,18,18,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,44,questao,44,,Linguagens,LC,27,27.21,25,1,0.43,0.78,0,2,311.2,318.3,18,18,0,2,0,0,Os Jogos Olímpicos já não são mais os mesmos.
+enem2024_dia1,2024,1,1,45,questao,45,,Linguagens,LC,47,46.91,41,1,0.43,4.48,0,2,541.7,548.8,18,18,1,1,0,0,Memes e fake news: o impacto na
+enem2024_dia1,2024,1,1,46,questao,46,,Ciências Humanas,CH,36,36.0,33,1,0.43,1.57,0,2,414.1,421.2,20,20,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,47,questao,47,,Ciências Humanas,CH,20,20.24,18,1,0.43,0.81,0,2,229.7,236.8,20,20,0,1,0,0,"Tal qual num exército, não se compreende um efetivo"
+enem2024_dia1,2024,1,1,48,questao,48,,Ciências Humanas,CH,22,22.03,18,1,0.43,2.61,0,2,250.7,257.8,20,20,1,1,0,0,O rompimento da barragem de Fundão levou muito
+enem2024_dia1,2024,1,1,49,questao,49,,Ciências Humanas,CH,24,24.03,20,1,0.43,2.61,0,2,274.1,281.2,20,20,1,1,0,0,"Com a proximidade do final do século XIX, amplificam-se"
+enem2024_dia1,2024,1,1,50,questao,50,,Ciências Humanas,CH,29,29.03,25,1,0.43,2.61,0,2,332.6,339.7,21,21,0,1,0,0,O bispo Bartolomeu de Las Casas é o homem mais
+enem2024_dia1,2024,1,1,51,questao,51,,Ciências Humanas,CH,23,23.03,19,1,0.43,2.61,0,2,262.4,269.5,21,21,0,1,0,0,A valsa vienense é a mais antiga das danças de salão
+enem2024_dia1,2024,1,1,52,questao,52,,Ciências Humanas,CH,24,23.85,20,1,0.43,2.43,0,2,272.0,279.1,21,21,1,1,0,0,O Black Lives Matter vai para além do nacionalismo
+enem2024_dia1,2024,1,1,53,questao,53,,Ciências Humanas,CH,28,28.25,10,1,14.48,2.77,1,2,323.4,330.5,21,21,1,1,0,0,Diferenças entre inundação gradual e brusca
+enem2024_dia1,2024,1,1,54,questao,54,,Ciências Humanas,CH,22,22.03,18,1,0.43,2.61,0,2,250.7,257.8,22,22,0,1,0,0,Os grupos dominantes são beneficiados em termos de
+enem2024_dia1,2024,1,1,55,questao,55,,Ciências Humanas,CH,22,22.03,18,1,0.43,2.61,0,2,250.7,257.8,22,22,0,1,0,0,A alma funciona no meu corpo de maneira maravilhosa.
+enem2024_dia1,2024,1,1,56,questao,56,,Ciências Humanas,CH,26,26.03,22,1,0.43,2.61,0,2,297.5,304.6,22,22,1,1,0,0,"No primeiro dia, foi colocada uma panela de barro no"
+enem2024_dia1,2024,1,1,57,questao,57,,Ciências Humanas,CH,20,20.03,16,1,0.43,2.61,0,2,227.3,234.4,22,22,1,1,0,0,"Espaços públicos não são produtos dados e acabados,"
+enem2024_dia1,2024,1,1,58,questao,58,,Ciências Humanas,CH,38,37.51,31,1,0.43,5.09,0,2,431.8,438.9,23,23,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,59,questao,59,,Ciências Humanas,CH,21,20.89,16,1,0.43,3.46,0,2,237.3,244.4,23,23,0,1,0,0,As instituições que a Idade Média nos legou são de
+enem2024_dia1,2024,1,1,60,questao,60,,Ciências Humanas,CH,26,26.21,22,1,0.43,2.79,0,2,299.6,306.7,23,23,1,1,0,0,Há experiências de lutas sociais de reapropriação
+enem2024_dia1,2024,1,1,61,questao,61,,Ciências Humanas,CH,25,25.21,21,1,0.43,2.79,0,2,287.9,295.0,23,23,1,1,0,0,"Eu sentia falta do futuro. É claro que eu sabia,"
+enem2024_dia1,2024,1,1,62,questao,62,,Ciências Humanas,CH,32,31.63,28,1,0.43,2.2,0,2,362.9,370.0,24,24,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,63,questao,63,,Ciências Humanas,CH,19,19.49,16,1,0.43,2.07,0,2,221.0,228.1,24,24,0,1,0,0,"Uma das principais atividades provocadas pela arte,"
+enem2024_dia1,2024,1,1,64,questao,64,,Ciências Humanas,CH,37,36.65,30,1,0.43,5.22,0,2,421.6,428.8,24,24,1,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,65,questao,65,,Ciências Humanas,CH,22,21.65,17,1,0.43,3.22,0,2,246.2,253.3,24,24,1,1,0,0,"Como conclusão provisória, parece então que a"
+enem2024_dia1,2024,1,1,66,questao,66,,Ciências Humanas,CH,26,25.85,22,1,0.43,2.43,0,2,295.4,302.5,25,25,0,1,0,0,"Em 1960, a primeira pílula anticoncepcional foi"
+enem2024_dia1,2024,1,1,67,questao,67,,Ciências Humanas,CH,21,20.97,17,1,0.43,2.55,0,2,238.3,245.4,25,25,0,1,0,0,A internet fortalece o engajamento e a visibilidade de
+enem2024_dia1,2024,1,1,68,questao,68,,Ciências Humanas,CH,34,33.62,28,1,0.43,4.19,0,2,386.2,393.3,25,25,1,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,69,questao,69,,Ciências Humanas,CH,24,24.03,20,1,0.43,2.61,0,2,274.1,281.2,26,26,0,1,0,0,Atribuo a causa desse florescimento estéril a um
+enem2024_dia1,2024,1,1,70,questao,70,,Ciências Humanas,CH,23,22.67,19,1,0.43,2.24,0,2,258.1,265.2,26,26,0,1,0,0,"Cada objeto é, em si mesmo, um sistema funcionando"
+enem2024_dia1,2024,1,1,71,questao,71,,Ciências Humanas,CH,34,34.33,29,1,0.43,3.9,0,2,394.5,401.6,26,26,1,1,0,0,A 26ª Conferência do Clima das Nações Unidas foi realizada
+enem2024_dia1,2024,1,1,72,questao,72,,Ciências Humanas,CH,24,23.95,19,1,0.43,3.52,0,2,273.1,280.2,26,26,1,1,0,0,A pessoa com deficiência de qualquer modalidade —
+enem2024_dia1,2024,1,1,73,questao,73,,Ciências Humanas,CH,22,21.85,18,1,0.43,2.43,0,2,248.6,255.7,27,27,0,1,0,0,"As capas dos folhetos de cordel, já então ilustradas"
+enem2024_dia1,2024,1,1,74,questao,74,,Ciências Humanas,CH,25,24.85,21,1,0.43,2.43,0,2,283.7,290.8,27,27,0,1,0,0,"O Círio de Nazaré é uma festa que ocorre, anualmente,"
+enem2024_dia1,2024,1,1,75,questao,75,,Ciências Humanas,CH,28,27.85,24,1,0.43,2.43,0,2,318.8,325.9,27,27,1,1,0,0,Os salões permitiam aos escritores da época do
+enem2024_dia1,2024,1,1,76,questao,76,,Ciências Humanas,CH,24,24.03,20,1,0.43,2.61,0,2,274.1,281.2,27,27,1,1,0,0,Resumamos os principais caracteres de um rizoma:
+enem2024_dia1,2024,1,1,77,questao,77,,Ciências Humanas,CH,56,55.64,18,2,30.36,5.28,1,2,636.8,651.0,28,28,0,2,1,0,"VIEIRA, A. P. L. O Departamento de Imprensa e Propaganda e a política editorial "
+enem2024_dia1,2024,1,1,78,questao,78,,Ciências Humanas,CH,32,32.48,24,2,0.85,5.63,0,2,365.8,380.0,28,28,0,2,1,0,"A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gos"
+enem2024_dia1,2024,1,1,79,questao,79,,Ciências Humanas,CH,29,28.51,20,2,0.85,5.66,0,2,319.4,333.6,28,28,0,2,1,0,"O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torn"
+enem2024_dia1,2024,1,1,80,questao,80,,Ciências Humanas,CH,37,37.34,31,1,0.43,4.91,0,2,429.8,436.9,29,29,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,81,questao,81,,Ciências Humanas,CH,21,21.05,16,1,0.43,3.62,0,2,239.2,246.3,29,29,0,1,0,0,"No Brasil, os remanescentes de antigos quilombos,"
+enem2024_dia1,2024,1,1,82,questao,82,,Ciências Humanas,CH,28,28.03,24,1,0.43,2.61,0,2,320.9,328.0,29,29,1,1,0,0,Bertrand Russell conta a história de um peru que
+enem2024_dia1,2024,1,1,83,questao,83,,Ciências Humanas,CH,19,19.03,15,1,0.43,2.61,0,2,215.6,222.7,29,29,1,1,0,0,A finalidade mais marcante em toda a história dos
+enem2024_dia1,2024,1,1,84,questao,84,,Ciências Humanas,CH,32,32.41,27,1,0.43,3.98,0,2,372.1,379.2,30,30,0,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,85,questao,85,,Ciências Humanas,CH,26,25.86,21,1,0.43,3.43,0,2,295.4,302.5,30,30,0,1,0,0,"Era uma vez um país, uma cidade, uma praça, algumas"
+enem2024_dia1,2024,1,1,86,questao,86,,Ciências Humanas,CH,42,41.94,11,1,25.42,4.51,2,2,483.6,490.7,30,30,1,1,0,0,TEXTO I
+enem2024_dia1,2024,1,1,87,questao,87,,Ciências Humanas,CH,23,22.55,19,1,0.43,2.13,0,2,256.8,263.9,31,31,0,1,0,0,A democracia responde a esta pergunta: quem deve
+enem2024_dia1,2024,1,1,88,questao,88,,Ciências Humanas,CH,22,21.85,18,1,0.43,2.43,0,2,248.6,255.7,31,31,0,1,0,0,A mudança do clima nas cidades brasileiras é um desafio
+enem2024_dia1,2024,1,1,89,questao,89,,Ciências Humanas,CH,24,23.85,20,1,0.43,2.43,0,2,272.0,279.1,31,31,1,1,0,0,O Conselho de Segurança da Organização das
+enem2024_dia1,2024,1,1,90,questao,90,,Ciências Humanas,CH,19,19.03,15,1,0.43,2.61,0,2,215.6,222.7,31,31,1,1,0,0,"Uma fábrica na qual os operários fossem, efetiva e"

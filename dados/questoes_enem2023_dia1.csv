@@ -1,0 +1,96 @@
+﻿prova,ano,dia,caderno,id,tipo,numero,lingua,area,secao,w,linhas,linhas_texto,linhas_texto_em_figura,linhas_figura,linhas_espaco,n_imagens,n_desenhos,altura_conteudo_pt,altura_total_pt,pagina_inicial,pagina_final,coluna_inicial,n_colunas,coluna_unica,quebra_pagina,primeira_linha
+enem2023_dia1,2023,1,1,01_ING,questao,1,ING,Linguagens,ING,28,27.56,8,4,16.74,0.0,16,1,315.7,322.4,2,2,0,1,0,0,The average american tosses 300 pounds of food
+enem2023_dia1,2023,1,1,02_ING,questao,2,ING,Linguagens,ING,19,19.46,15,0,0.0,4.46,0,0,221.0,227.7,2,2,0,1,0,0,"No man is an island,"
+enem2023_dia1,2023,1,1,03_ING,questao,3,ING,Linguagens,ING,43,42.53,35,0,0.0,7.53,0,0,490.9,497.6,2,2,1,1,0,0,"We carry tears in our eyes: good-bye father, good-bye"
+enem2023_dia1,2023,1,1,04_ING,questao,4,ING,Linguagens,ING,36,36.27,29,0,0.0,7.27,0,0,417.6,424.4,3,3,0,1,0,0,Spanglish
+enem2023_dia1,2023,1,1,05_ING,questao,5,ING,Linguagens,ING,35,35.09,9,2,23.4,0.69,1,0,403.8,410.6,3,3,1,1,0,0,"“Oh, you’ll love working here. Nobody treats you any"
+enem2023_dia1,2023,1,1,01_ESP,questao,1,ESP,Linguagens,ESP,56,55.85,35,0,14.42,6.43,2,0,646.8,653.5,4,4,0,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,02_ESP,questao,2,ESP,Linguagens,ESP,41,40.61,36,0,0.0,4.61,0,0,468.4,475.1,4,4,1,1,0,0,Me niego rotundamente
+enem2023_dia1,2023,1,1,03_ESP,questao,3,ESP,Linguagens,ESP,32,31.52,27,0,0.0,4.52,0,0,362.1,368.8,5,5,0,1,0,0,“Caramelos” en sus suelos
+enem2023_dia1,2023,1,1,04_ESP,questao,4,ESP,Linguagens,ESP,34,34.38,30,0,0.0,4.38,0,0,395.5,402.2,5,5,0,2,0,0,Técnicas de manipulación y el resultado
+enem2023_dia1,2023,1,1,05_ESP,questao,5,ESP,Linguagens,ESP,42,42.34,35,0,0.0,7.34,0,0,488.7,495.4,5,5,1,1,0,0,Que quede claro
+enem2023_dia1,2023,1,1,06,questao,6,,Linguagens,LC,20,20.47,18,0,0.0,2.47,0,0,232.7,239.5,6,6,0,1,0,0,A sessão do Comitê Olímpico Internacional (COI)
+enem2023_dia1,2023,1,1,07,questao,7,,Linguagens,LC,35,34.7,31,0,0.0,3.7,0,0,399.3,406.0,6,6,0,1,0,0,Mais iluminada que outras
+enem2023_dia1,2023,1,1,08,questao,8,,Linguagens,LC,35,34.67,31,0,0.0,3.67,0,0,398.9,405.6,6,6,1,1,0,0,De quem é esta língua?
+enem2023_dia1,2023,1,1,09,questao,9,,Linguagens,LC,31,30.76,26,0,0.0,4.76,0,0,353.2,359.9,7,7,0,1,0,0,"Na Idade Média, as notícias se propagavam com"
+enem2023_dia1,2023,1,1,10,questao,10,,Linguagens,LC,38,38.15,33,0,0.0,5.15,0,0,439.6,446.3,7,7,0,2,0,0,Se a interferência de contas falsas em discussões
+enem2023_dia1,2023,1,1,11,questao,11,,Linguagens,LC,38,38.34,36,0,0.0,2.34,0,0,441.9,448.6,7,7,1,1,0,0,"Maio foi colorido de amarelo, e o foi porque"
+enem2023_dia1,2023,1,1,12,questao,12,,Linguagens,LC,35,34.66,31,0,0.0,3.66,0,0,398.8,405.5,8,8,0,1,0,0,Ainda daquela vez pude constatar a bizarrice dos
+enem2023_dia1,2023,1,1,13,questao,13,,Linguagens,LC,35,34.57,27,0,0.0,7.57,0,0,397.7,404.4,8,8,1,1,0,0,Girassol da madrugada
+enem2023_dia1,2023,1,1,14,questao,14,,Linguagens,LC,38,38.05,33,0,0.0,5.05,0,0,438.5,445.2,9,9,0,1,0,0,Dão Lalalão
+enem2023_dia1,2023,1,1,15,questao,15,,Linguagens,LC,37,36.57,33,0,0.0,3.57,0,0,421.1,427.9,9,9,1,1,0,0,"As cinzas do Museu Nacional, no Rio de Janeiro,"
+enem2023_dia1,2023,1,1,16,questao,16,,Linguagens,LC,43,42.52,39,0,0.0,3.52,0,0,490.8,497.5,10,10,0,1,0,0,"Mandioca, macaxeira, aipim e castelinha são nomes"
+enem2023_dia1,2023,1,1,17,questao,17,,Linguagens,LC,29,28.77,26,0,0.0,2.77,0,0,329.9,336.6,10,10,0,2,0,0,Como é bom reencontrar os leitores da Revista da
+enem2023_dia1,2023,1,1,18,questao,18,,Linguagens,LC,43,43.38,34,0,0.0,9.38,0,0,500.8,507.6,10,10,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,19,questao,19,,Linguagens,LC,43,43.01,38,0,0.0,5.01,0,0,496.5,503.2,11,11,0,1,0,0,“São tantas formas de matar um preto
+enem2023_dia1,2023,1,1,20,questao,20,,Linguagens,LC,43,43.34,38,0,0.0,5.34,0,0,500.3,507.0,11,11,0,2,0,0,No princípio era o verbo. A frase que abre o primeiro
+enem2023_dia1,2023,1,1,21,questao,21,,Linguagens,LC,28,28.45,25,0,0.0,3.45,0,0,326.1,332.8,11,11,1,1,0,0,Um grupo de pesquisadores da Universidade Federal
+enem2023_dia1,2023,1,1,22,questao,22,,Linguagens,LC,34,33.77,32,0,0.0,1.77,0,0,388.4,395.1,12,12,0,1,0,0,"Alguém muito recentemente cortara o mato, que na"
+enem2023_dia1,2023,1,1,23,questao,23,,Linguagens,LC,51,50.51,46,0,0.0,4.51,0,0,584.2,590.9,12,12,0,2,0,0,TEXTO I
+enem2023_dia1,2023,1,1,24,questao,24,,Linguagens,LC,31,30.52,15,8,12.48,0.0,1,10,350.3,357.1,12,12,1,1,0,0,#JuntasSomosMaisFortes
+enem2023_dia1,2023,1,1,25,questao,25,,Linguagens,LC,25,24.73,24,0,0.0,0.73,0,0,282.6,289.3,13,13,0,1,0,0,"Passado muito tempo, resolvi tentar falar, porque"
+enem2023_dia1,2023,1,1,26,questao,26,,Linguagens,LC,33,32.95,33,0,0.0,0.0,0,0,378.8,385.6,13,13,0,1,0,0,A escravidão
+enem2023_dia1,2023,1,1,27,questao,27,,Linguagens,LC,30,29.75,28,0,0.0,1.75,0,0,341.3,348.0,13,13,1,1,0,0,E assim as coisas continuaram acontecendo entre os
+enem2023_dia1,2023,1,1,28,questao,28,,Linguagens,LC,22,22.48,18,0,0.0,4.48,0,0,256.3,263.0,13,13,1,1,0,0,A garganta é a gruta que guarda o som
+enem2023_dia1,2023,1,1,29,questao,29,,Linguagens,LC,34,33.84,32,0,0.0,1.84,0,0,389.2,396.0,14,14,0,1,0,0,"Era um gato preto, como convinha a um cultor das boas"
+enem2023_dia1,2023,1,1,30,questao,30,,Linguagens,LC,37,36.7,35,0,0.0,1.7,0,0,422.7,429.4,14,14,0,2,0,0,Enquanto estivemos entretidos com os urubus outras
+enem2023_dia1,2023,1,1,31,questao,31,,Linguagens,LC,32,31.86,27,0,0.0,4.86,0,0,366.0,372.7,14,14,1,1,0,0,Migalhas
+enem2023_dia1,2023,1,1,32,questao,32,,Linguagens,LC,26,25.87,23,0,0.0,2.87,0,0,296.0,302.7,15,15,0,1,0,0,O sol começa a descer por trás da vegetação da Ilha
+enem2023_dia1,2023,1,1,33,questao,33,,Linguagens,LC,46,46.33,29,0,14.74,2.59,1,0,535.4,542.1,15,15,0,2,0,0,TEXTO I
+enem2023_dia1,2023,1,1,34,questao,34,,Linguagens,LC,43,42.5,24,0,14.26,4.24,1,0,490.5,497.3,15,15,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,35,questao,35,,Linguagens,LC,32,31.6,28,0,0.0,3.6,0,0,363.0,369.8,16,16,0,1,0,0,A indústria do esporte eletrônico é um mercado que
+enem2023_dia1,2023,1,1,36,questao,36,,Linguagens,LC,26,26.08,23,0,0.0,3.08,0,0,298.5,305.2,16,16,0,1,0,0,O Marabaixo é uma expressão artístico-cultural
+enem2023_dia1,2023,1,1,37,questao,37,,Linguagens,LC,26,26.2,23,0,0.0,3.2,0,0,299.8,306.5,16,16,1,1,0,0,O uso das redes sociais como forma de ampliar
+enem2023_dia1,2023,1,1,38,questao,38,,Linguagens,LC,28,28.15,25,0,0.0,3.15,0,0,322.6,329.4,16,16,1,1,0,0,"O mais antigo grupo de rap indígena do país, Brô MCs,"
+enem2023_dia1,2023,1,1,39,questao,39,,Linguagens,LC,28,27.62,26,0,0.0,1.62,0,0,316.4,323.2,17,17,0,1,0,0,A petição on-line criada por um cidadão paulista
+enem2023_dia1,2023,1,1,40,questao,40,,Linguagens,LC,30,30.07,29,0,0.0,1.07,0,0,345.1,351.8,17,17,0,1,0,0,A neozelandesa Laurel Hubbard fez história nos Jogos
+enem2023_dia1,2023,1,1,41,questao,41,,Linguagens,LC,30,29.85,28,0,0.0,1.85,0,0,342.5,349.2,17,17,1,1,0,0,"“Ganhei 25 medalhas em mundiais, sete em Jogos"
+enem2023_dia1,2023,1,1,42,questao,42,,Linguagens,LC,28,27.96,24,0,0.0,3.96,0,0,320.4,327.2,17,17,1,1,0,0,O acesso às Práticas Corporais/Atividades Físicas
+enem2023_dia1,2023,1,1,43,questao,43,,Linguagens,LC,38,37.52,35,0,0.0,2.52,0,0,432.3,439.0,18,18,0,1,0,0,"Mestre e companheiro, disse eu que nos íamos despedir."
+enem2023_dia1,2023,1,1,44,questao,44,,Linguagens,LC,32,31.69,12,0,17.35,2.34,1,0,364.1,370.8,18,18,0,2,0,0,Disponível em: www.facebook.com/minsaude. Acesso em: 13 jun. 2018.
+enem2023_dia1,2023,1,1,45,questao,45,,Linguagens,LC,46,45.64,37,0,0.0,8.64,0,0,527.2,534.0,18,18,1,1,0,0,Carta aberta à população brasileira
+enem2023_dia1,2023,1,1,46,questao,46,,Ciências Humanas,CH,36,36.25,11,0,23.95,1.3,1,0,417.4,424.1,20,20,0,1,0,0,Fotografia da avó bordada
+enem2023_dia1,2023,1,1,47,questao,47,,Ciências Humanas,CH,19,19.14,18,0,0.0,1.14,0,0,217.2,223.9,20,20,0,1,0,0,Felizes tempos eram esses! As moças iam à missa de
+enem2023_dia1,2023,1,1,48,questao,48,,Ciências Humanas,CH,29,29.05,27,0,0.0,2.05,0,0,333.2,339.9,20,20,1,1,0,0,"No Cerrado, o conhecimento local está sendo cada"
+enem2023_dia1,2023,1,1,49,questao,49,,Ciências Humanas,CH,29,28.64,27,0,0.0,1.64,0,0,328.3,335.1,20,20,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,50,questao,50,,Ciências Humanas,CH,23,23.46,21,0,0.0,2.46,0,0,267.8,274.5,21,21,0,1,0,0,Superar a história da escravidão como principal marca
+enem2023_dia1,2023,1,1,51,questao,51,,Ciências Humanas,CH,23,23.26,20,0,0.0,3.26,0,0,265.4,272.1,21,21,0,1,0,0,"Escrito durante a Primeira Guerra Mundial, o seguinte"
+enem2023_dia1,2023,1,1,52,questao,52,,Ciências Humanas,CH,27,27.34,26,0,0.0,1.34,0,0,313.2,319.9,21,21,0,2,0,0,TEXTO I
+enem2023_dia1,2023,1,1,53,questao,53,,Ciências Humanas,CH,20,20.2,18,0,0.0,2.2,0,0,229.6,236.4,21,21,1,1,0,0,A Cordilheira do Himalaia tem mais de 50 milhões de
+enem2023_dia1,2023,1,1,54,questao,54,,Ciências Humanas,CH,21,20.88,19,0,0.0,1.88,0,0,237.6,244.3,21,21,1,1,0,0,"Eu poderia concluir que a raiva é um pensamento, que"
+enem2023_dia1,2023,1,1,55,questao,55,,Ciências Humanas,CH,32,31.53,26,0,0.0,5.53,0,0,355.4,368.9,22,22,0,2,1,0,A diversão é o prolongamento do trabalho sob o capitalismo tardio. Ela é procura
+enem2023_dia1,2023,1,1,56,questao,56,,Ciências Humanas,CH,48,48.35,16,6,26.34,0.01,1,0,552.2,565.7,22,22,0,2,1,0,FORÇA? VISÃO DE
+enem2023_dia1,2023,1,1,57,questao,57,,Ciências Humanas,CH,28,27.53,22,0,0.0,5.53,0,0,308.6,322.1,22,22,0,2,1,0,Quem se mete pelo caminho do pedido de perdão deve estar pronto a escutar uma pa
+enem2023_dia1,2023,1,1,58,questao,58,,Ciências Humanas,CH,40,39.85,38,0,0.0,1.85,0,0,459.5,466.2,23,23,0,1,0,0,A Cavalgada de Sant’Ana é uma expressão da devoção
+enem2023_dia1,2023,1,1,59,questao,59,,Ciências Humanas,CH,26,26.08,24,0,0.0,2.08,0,0,298.4,305.1,23,23,0,2,0,0,"Do século XVI em diante, pelo menos nas classes"
+enem2023_dia1,2023,1,1,60,questao,60,,Ciências Humanas,CH,22,22.38,20,0,0.0,2.38,0,0,255.1,261.9,23,23,1,1,0,0,Negar o pedido por dinheiro indispensável para
+enem2023_dia1,2023,1,1,61,questao,61,,Ciências Humanas,CH,22,22.38,20,0,0.0,2.38,0,0,255.1,261.9,23,23,1,1,0,0,Por trás da “mágica” do Google Assistant de sua
+enem2023_dia1,2023,1,1,62,questao,62,,Ciências Humanas,CH,30,29.78,27,0,0.0,2.78,0,0,341.7,348.4,24,24,0,1,0,0,Enormes alto-falantes sul-coreanos instalados na
+enem2023_dia1,2023,1,1,63,questao,63,,Ciências Humanas,CH,28,27.89,25,0,0.0,2.89,0,0,319.6,326.3,24,24,0,1,0,0,"Seda, madeiras aromáticas e têxteis, obras de arte,"
+enem2023_dia1,2023,1,1,64,questao,64,,Ciências Humanas,CH,18,17.76,16,0,0.0,1.76,0,0,201.0,207.8,24,24,1,1,0,0,"Txai Suruí, liderança da Juventude Indígena,"
+enem2023_dia1,2023,1,1,65,questao,65,,Ciências Humanas,CH,40,40.17,25,0,12.57,2.61,1,0,463.3,470.0,24,24,1,1,0,0,Nas reportagens publicadas sobre a inauguração do
+enem2023_dia1,2023,1,1,66,questao,66,,Ciências Humanas,CH,29,29.02,26,0,0.0,3.02,0,0,332.7,339.5,25,25,0,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,67,questao,67,,Ciências Humanas,CH,23,23.0,21,0,0.0,2.0,0,0,262.3,269.1,25,25,0,1,0,0,"No sul da Bahia, desde o século XVIII, tem-se"
+enem2023_dia1,2023,1,1,68,questao,68,,Ciências Humanas,CH,20,20.47,18,0,0.0,2.47,0,0,232.7,239.4,25,25,1,1,0,0,"O masseiro, a mulher, e quatro filhos, dormindo numa"
+enem2023_dia1,2023,1,1,69,questao,69,,Ciências Humanas,CH,26,25.52,23,0,0.0,2.52,0,0,291.9,298.6,25,25,1,1,0,0,Elas foram as pioneiras dos direitos das mulheres
+enem2023_dia1,2023,1,1,70,questao,70,,Ciências Humanas,CH,34,33.53,30,0,0.0,3.53,0,0,385.6,392.3,26,26,0,1,0,0,"No cemitério, a sociedade religiosa encarregada do"
+enem2023_dia1,2023,1,1,71,questao,71,,Ciências Humanas,CH,24,24.16,21,0,0.0,3.16,0,0,275.9,282.6,26,26,0,1,0,0,Alternativas logísticas estão servindo de instrumentos
+enem2023_dia1,2023,1,1,72,questao,72,,Ciências Humanas,CH,42,41.81,23,7,15.79,0.0,1,0,482.4,489.2,26,26,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,73,questao,73,,Ciências Humanas,CH,24,24.38,22,0,0.0,2.38,0,0,278.5,285.2,27,27,0,1,0,0,"Os séculos XV e XVI, quando se vão desmoronando"
+enem2023_dia1,2023,1,1,74,questao,74,,Ciências Humanas,CH,25,25.38,23,0,0.0,2.38,0,0,290.2,297.0,27,27,0,1,0,0,Tahuantinsuyu — nome do Império Inca em quéchua —
+enem2023_dia1,2023,1,1,75,questao,75,,Ciências Humanas,CH,20,20.09,17,0,0.0,3.09,0,0,228.3,235.0,27,27,1,1,0,0,A torcida do Fluminense inicia um movimento para
+enem2023_dia1,2023,1,1,76,questao,76,,Ciências Humanas,CH,38,37.6,19,10,14.6,0.0,0,16,433.2,440.0,27,27,1,1,0,0,Taxa de fecundidade no Brasil
+enem2023_dia1,2023,1,1,77,questao,77,,Ciências Humanas,CH,26,26.0,24,0,0.0,2.0,0,0,297.4,304.1,28,28,0,1,0,0,Havia já muito tempo que a Europa desfrutava os
+enem2023_dia1,2023,1,1,78,questao,78,,Ciências Humanas,CH,26,26.0,24,0,0.0,2.0,0,0,297.4,304.2,28,28,0,1,0,0,Os movimentos da agricultura urbana no Rio de
+enem2023_dia1,2023,1,1,79,questao,79,,Ciências Humanas,CH,38,37.87,34,0,0.0,3.87,0,0,436.3,443.1,28,28,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,80,questao,80,,Ciências Humanas,CH,20,19.82,17,0,0.0,2.82,0,0,225.2,231.9,28,28,1,1,0,0,O Golpe Militar de 1964 foi implacável no combate
+enem2023_dia1,2023,1,1,81,questao,81,,Ciências Humanas,CH,27,26.51,24,0,0.0,2.51,0,0,303.4,310.1,29,29,0,1,0,0,A economia das ilegalidades se reestruturou com o
+enem2023_dia1,2023,1,1,82,questao,82,,Ciências Humanas,CH,31,31.16,29,0,0.0,2.16,0,0,357.8,364.6,29,29,0,1,0,0,Os vapores cruzavam os mares transportando
+enem2023_dia1,2023,1,1,83,questao,83,,Ciências Humanas,CH,26,26.0,24,0,0.0,2.0,0,0,297.4,304.1,29,29,1,1,0,0,Diversos são os fatores causadores da degradação
+enem2023_dia1,2023,1,1,84,questao,84,,Ciências Humanas,CH,28,28.38,26,0,0.0,2.38,0,0,325.3,332.1,29,29,1,1,0,0,"A partir da década de 1930, começam a ser discutidos"
+enem2023_dia1,2023,1,1,85,questao,85,,Ciências Humanas,CH,30,30.41,28,0,0.0,2.41,0,0,349.1,355.8,30,30,0,1,0,0,Produtores rurais europeus são antigos opositores
+enem2023_dia1,2023,1,1,86,questao,86,,Ciências Humanas,CH,27,27.28,25,0,0.0,2.28,0,0,312.4,319.2,30,30,0,1,0,0,"Durante a Revolução Francesa, um certo padre Niollant"
+enem2023_dia1,2023,1,1,87,questao,87,,Ciências Humanas,CH,35,35.27,33,0,0.0,2.27,0,0,405.9,412.6,30,30,1,1,0,0,TEXTO I
+enem2023_dia1,2023,1,1,88,questao,88,,Ciências Humanas,CH,22,22.42,20,0,0.0,2.42,0,0,255.5,262.3,30,30,1,1,0,0,Concorrer e competir não são a mesma coisa.
+enem2023_dia1,2023,1,1,89,questao,89,,Ciências Humanas,CH,82,81.8,16,20,57.39,0.0,1,3,943.6,957.1,31,31,0,2,1,0,Simulação de mudança da temperatura média anual em relação ao período pré-indust
+enem2023_dia1,2023,1,1,90,questao,90,,Ciências Humanas,CH,34,33.56,26,0,0.0,7.56,0,0,379.2,392.7,31,31,0,2,1,0,Não tinha outra filosofia. Nem eu. Não digo que a Universidade me não tivesse en

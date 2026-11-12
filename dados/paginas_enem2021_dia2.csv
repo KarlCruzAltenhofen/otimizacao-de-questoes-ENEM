@@ -1,0 +1,33 @@
+﻿prova,pagina,tipo,layout,banner,banner_linhas,capacidade_linhas,linhas_usadas,linhas_usadas_float,folga,n_itens,itens,secoes
+enem2021_dia2,1,capa,,,0,0,0,0,0,0,,
+enem2021_dia2,2,questoes,duas_colunas,CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS | Questões de 91 a 135,3,111,111,110.89,0,4,91 92 93 94,CN
+enem2021_dia2,3,questoes,duas_colunas,,0,114,114,114.51,0,5,95 96 97 98 99,CN
+enem2021_dia2,4,questoes,coluna_unica,,0,114,114,114.33,0,3,100 101 102,CN
+enem2021_dia2,5,questoes,coluna_unica,,0,114,113,112.94,1,2,103 104,CN
+enem2021_dia2,6,questoes,duas_colunas,,0,114,109,109.32,5,1,105,CN
+enem2021_dia2,7,questoes,coluna_unica,,0,114,114,114.31,0,2,106 107,CN
+enem2021_dia2,8,questoes,coluna_unica,,0,114,113,113.22,1,3,108 109 110,CN
+enem2021_dia2,9,questoes,duas_colunas,,0,114,114,112.79,0,3,111 112 113,CN
+enem2021_dia2,10,questoes,coluna_unica,,0,114,114,114.17,0,2,114 115,CN
+enem2021_dia2,11,questoes,duas_colunas,,0,114,114,113.3,0,3,116 117 118,CN
+enem2021_dia2,12,questoes,duas_colunas,,0,114,112,112.22,2,3,119 120 121,CN
+enem2021_dia2,13,questoes,duas_colunas,,0,114,113,112.89,1,5,122 123 124 125 126,CN
+enem2021_dia2,14,questoes,coluna_unica,,0,114,108,107.54,6,1,127,CN
+enem2021_dia2,15,questoes,duas_colunas,,0,114,113,113.21,1,5,128 129 130 131 132,CN
+enem2021_dia2,16,questoes,duas_colunas,,0,114,113,113.91,1,3,133 134 135,CN
+enem2021_dia2,17,questoes,duas_colunas,MATEMÁTICA E SUAS TECNOLOGIAS | Questões de 136 a 180,2,112,113,112.41,-1,5,136 137 138 139 140,MT
+enem2021_dia2,18,questoes,duas_colunas,,0,114,114,113.61,0,4,141 142 143 144,MT
+enem2021_dia2,19,questoes,duas_colunas,,0,114,115,114.35,-1,4,145 146 147 148,MT
+enem2021_dia2,20,questoes,duas_colunas,,0,114,114,114.19,0,5,149 150 151 152 153,MT
+enem2021_dia2,21,questoes,coluna_unica,,0,114,107,106.88,7,1,154,MT
+enem2021_dia2,22,questoes,coluna_unica,,0,114,108,107.54,6,1,155,MT
+enem2021_dia2,23,questoes,duas_colunas,,0,114,115,113.98,-1,4,156 157 158 159,MT
+enem2021_dia2,24,questoes,coluna_unica,,0,114,113,113.57,1,2,160 161,MT
+enem2021_dia2,25,questoes,duas_colunas,,0,114,114,114.22,0,3,162 163 164,MT
+enem2021_dia2,26,questoes,duas_colunas,,0,114,114,113.9,0,3,165 166 167,MT
+enem2021_dia2,27,questoes,coluna_unica,,0,114,114,114.07,0,2,168 169,MT
+enem2021_dia2,28,questoes,duas_colunas,,0,114,114,114.24,0,4,170 171 172 173,MT
+enem2021_dia2,29,questoes,duas_colunas,,0,114,114,114.0,0,4,174 175 176 177,MT
+enem2021_dia2,30,questoes,coluna_unica,,0,114,114,113.58,0,1,178,MT
+enem2021_dia2,31,questoes,duas_colunas,,0,114,110,109.5,4,2,179 180,MT
+enem2021_dia2,32,outra,,,0,0,0,0,0,0,,
